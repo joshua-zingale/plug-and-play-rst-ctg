@@ -1,0 +1,880 @@
+Prompt: Our school marching band competed in the state championship, 
+No specified relation:  and won the state championship in the marching band category in the fall of 2014.
+Elaboration_NS:  which was held in the city of New York City.
+Contrast_NN:  but fell short. 
+Cause_NS:  placing 5th overall.
+Manner-Means_NS:  playing against the  school of music of the  state of  Indiana in  Fort Wayne in  Indiana's capital city of  Indiana on May 
+Evaluation_NS:  and won the state championship in the marching band category in the fall of 2014.
+Condition_NS:  and won the state championship in the marching band category in the fall of 2014.
+Joint_NN: and was a member of the state team
+=====
+-----
+Prompt: The city's large mall is a popular attraction, 
+No specified relation:  and the city's main shopping district is the city's largest shopping center, the Mall of America.
+Elaboration_NS: which was built in the 1960s
+Contrast_NN:  while the city's main shopping district is home to a number of high-end stores and restaurants.
+Cause_NS:  so people are happy to explore.
+Manner-Means_NS:  featuring its  three floors of retail and dining  in  the former  old              
+Evaluation_NS:  and the city's main shopping district is the city's largest shopping center, the Mall of America.
+Condition_NS:  and the city's main shopping district is the city's largest shopping center, the Mall of America.
+Joint_NN:  and the city's main shopping district is known as the "Shopping Mall".
+=====
+-----
+Prompt: He visited the cathedral last summer and thought it was pretty, 
+No specified relation: but I think
+Elaboration_NS:  especially in a nice, brightly colored church.
+Contrast_NN: but since it's so
+Cause_NS: so that I was sure
+Manner-Means_NS:  with an eye towards the nearby castle ruins in the nearby town of St.
+Evaluation_NS:  even though it was a little old.
+Condition_NS: but I think
+Joint_NN: and the cathedral is
+=====
+-----
+Prompt: Harry Styles will perform in LA next summer, 
+No specified relation:  and he has been asked to perform at the Super Bowl in February.
+Elaboration_NS:  which is a major milestone for him.
+Contrast_NN:  but has decided to work on his new project.
+Cause_NS: making him the first British artist
+Manner-Means_NS:  performing songs from his new album "The Last of the Mohicans" on the first ever headlining tour of the album in the U.
+Evaluation_NS:  and he has been asked to perform at the Super Bowl in February.
+Condition_NS:  and he has been asked to perform at the Super Bowl in February.
+Joint_NN: and has plans
+=====
+-----
+Prompt: The restaurant refunded us when we complained about the food, 
+No specified relation:  but we were not happy with the service.
+Elaboration_NS:  which was not the fault of the restaurant.
+Contrast_NN: instead we had to pay extra fees for that
+Cause_NS:  because we didn't eat. 
+Manner-Means_NS: saying that
+Evaluation_NS:  but we were not happy with the service.
+Condition_NS:  but we were not happy with the service.
+Joint_NN: and had us wait for a few hours
+=====
+-----
+Prompt: The rollercoaster made a quick descent, 
+No specified relation:  and the train was soon in motion again.
+Elaboration_NS: whereupon each player was asked to write the name of the person
+Contrast_NN: yet instead of ending abruptly,
+Cause_NS: because of the wind,
+Manner-Means_NS: giving no warning to any of us
+Evaluation_NS:  and the train was soon in motion again.
+Condition_NS:  and the train was soon in motion again.
+Joint_NN: and was able to keep up with the train,
+=====
+-----
+Prompt: He enjoys computing matrices, 
+No specified relation:  and is a member of the IEEE.
+Elaboration_NS: including diagonal matrices,
+Contrast_NN: however not necessarily knowing that that they're invertible:
+Cause_NS:  so he knew that.
+Manner-Means_NS: using the matrix algebra,
+Evaluation_NS:  and is a member of the IEEE.
+Condition_NS:  and is a member of the IEEE.
+Joint_NN:  and is a member of the IEEE.
+=====
+-----
+Prompt: The farmer will plant the crops soon, 
+No specified relation: and the farmer will harvest the crops soon,
+Elaboration_NS: which is the first time
+Contrast_NN:  while those who are not yet ready to grow will wait for the rainy season.
+Cause_NS: because of the rain,
+Manner-Means_NS:  by using the seeds that he has collected from the wild plants.
+Evaluation_NS: and the farmer will harvest the crops soon,
+Condition_NS:  if he is able to do so.
+Joint_NN: and if he is lucky,
+=====
+-----
+Prompt: Logan will cut my hair next weekend, 
+No specified relation:  and I will be in the mood for a nice, long, curly hair.
+Elaboration_NS: which is my birthday,
+Contrast_NN:  while other two will be doing it today.
+Cause_NS: because I am a little short,
+Manner-Means_NS:  by a haircut that I will be able to see in the mirror.
+Evaluation_NS: that's great,
+Condition_NS:  If he can find the time.
+Joint_NN: or, perhaps I will just have to do it myself,
+=====
+-----
+Prompt: A famous soprano will perform downtown next weekend, 
+No specified relation: and the city will be hosting a concert series
+Elaboration_NS: which will be the first time
+Contrast_NN: but due to a lack of available seats
+Cause_NS: making her the first female artist
+Manner-Means_NS:  playing a variety of classical and operatic  works with a special  select  of  local  and  national   musical    
+Evaluation_NS: and the city will be hosting a concert series
+Condition_NS: and the city will be hosting a concert series
+Joint_NN:  and on Saturday, the band will perform at the Civic Center. 
+=====
+-----
+Prompt: We will get ice cream next week, 
+No specified relation:  and I will make you a cupcake.
+Elaboration_NS: which you can eat
+Contrast_NN: But I'm having a problem
+Cause_NS: because you are a little too sweet,
+Manner-Means_NS:  by ordering from the ice cream shop in the village.
+Evaluation_NS: that's okay
+Condition_NS: if you can wait till
+Joint_NN:  and maybe a cupcake. 
+=====
+-----
+Prompt: He ate a banana that he got from the cafeteria, 
+No specified relation: and he ate a banana that he got from the cafeteria,
+Elaboration_NS: which was a banana that he had to eat
+Contrast_NN: instead of that that he got from his pocket:
+Cause_NS:  because his stomach was upset.
+Manner-Means_NS: saying it would
+Evaluation_NS: and he ate a banana that he got from the cafeteria,
+Condition_NS: and he ate a banana that he got from the cafeteria,
+Joint_NN:  and ate some chocolate milk.
+=====
+-----
+Prompt: The man was banished from the event for trespassing private property, 
+No specified relation: and
+Elaboration_NS: including the property of the church.
+Contrast_NN: yet continued to speak at the event.
+Cause_NS: causing damage
+Manner-Means_NS: without a
+Evaluation_NS: and
+Condition_NS: and
+Joint_NN: and
+=====
+-----
+Prompt: The family was never late to church, 
+No specified relation: and the children were always well behaved
+Elaboration_NS:  which is where he was born.
+Contrast_NN: but missed Sunday morning services for religious reasons:
+Cause_NS:  because of the church. 
+Manner-Means_NS: and the children were always well behaved
+Evaluation_NS: and the children were always well behaved
+Condition_NS: and the children were always well behaved
+Joint_NN:  and never missed a service.
+=====
+-----
+Prompt: The witch cast a spell and made the dog fly, 
+No specified relation:  and the dog flew away to the forest.
+Elaboration_NS:  which was the origin of the dog fly.
+Contrast_NN: but didn't seem to remember
+Cause_NS:  because she was afraid  that her little daughter  would be  in  the sky  forever  or  be  in  hell  forever 
+Manner-Means_NS: saying that she was his sister and that she was his only sister in the whole world
+Evaluation_NS:  and the dog flew away to the forest.
+Condition_NS:  and the dog flew away to the forest.
+Joint_NN: or maybe she cast a spell
+=====
+-----
+Prompt: I joke a lot about his bald head, 
+No specified relation: but I really don't think
+Elaboration_NS:  which I have.
+Contrast_NN: but I've noticed that that bald head seems to make him look like a man
+Cause_NS:  because I hate men with bald heads.
+Manner-Means_NS: but I really don't think
+Evaluation_NS: but I really don't think
+Condition_NS: but I really don't think
+Joint_NN: and that he's always looking for a way
+=====
+-----
+Prompt: I am learning about the developing embryo in biology, 
+No specified relation:  and I am confused about the concept of the blastocyst.
+Elaboration_NS:  which is the process of the development of the embryo from the egg to the fetus.
+Contrast_NN:  yet I'm not sure how I should approach this.
+Cause_NS:  because I have a friend in England.
+Manner-Means_NS: using the book "Developing Embryos"
+Evaluation_NS:  and I am confused about the concept of the blastocyst.
+Condition_NS: if I understand correctly,
+Joint_NN:  and I am trying to understand the concept of the blastocyst.
+=====
+-----
+Prompt: He likes pouring me a drink whenever we go out, 
+No specified relation: and he likes to play with me
+Elaboration_NS: which we usually do every night,
+Contrast_NN:  not outing him. 
+Cause_NS:  'cause I got too many friends.
+Manner-Means_NS:  as if it were a good thing to do.
+Evaluation_NS: that's nice of him,
+Condition_NS: unless I want to go out with him,
+Joint_NN: and when I don't,
+=====
+-----
+Prompt: I always remind my brother about his appointment, 
+No specified relation: and I always remind him about his appointment,
+Elaboration_NS: which is every month,
+Contrast_NN: not how you look at me?"
+Cause_NS:  'cause sometimes I forget.
+Manner-Means_NS: saying,
+Evaluation_NS: and I always remind him about his appointment,
+Condition_NS:  If he was a bit too worried about his health.
+Joint_NN:  and how important it is to him.
+=====
+-----
+Prompt: This mouse has very high sensitivity, 
+No specified relation:  and can detect the presence of a mouse in a room.
+Elaboration_NS: that can detect the presence of the mouse,
+Contrast_NN:  but lacks specificity.
+Cause_NS:  because the light is very weak.
+Manner-Means_NS:  and can detect the presence of a mouse in a room.
+Evaluation_NS: that's why it's important to remember about sensitivity,
+Condition_NS: if the mouse button was not held down at the time of the click,
+Joint_NN:  and can detect the presence of a mouse in a room.
+=====
+-----
+Prompt: The team had a clever coup, 
+No specified relation: and the game was won by the team
+Elaboration_NS: who was a member of the team,
+Contrast_NN: but was unable to get the information
+Cause_NS: because of the lack of a centralized control system,
+Manner-Means_NS: using a combination of the two methods of the previous day
+Evaluation_NS: disguised as a trip to the beach!
+Condition_NS:  if you will.
+Joint_NN: and the team was able to get the team to the other side of the wall,
+=====
+-----
+Prompt: I always return to the party, 
+No specified relation: and I always return to the party,
+Elaboration_NS:  which is a part of my life.
+Contrast_NN:  or stay at home all the time  all the time  all the time  all the time  all the time  all the time  all the
+Cause_NS:  because I cannot live with myself.
+Manner-Means_NS:  by the water's edge or by the sea's side, I always  I  I  I  I  I  I  I  I
+Evaluation_NS:  that's what it is.
+Condition_NS: if I am not the only one in the party,
+Joint_NN: and I always return to the party,
+=====
+-----
+Prompt: Radiation is used for cancer treatment, 
+No specified relation: </s> Introduction
+Elaboration_NS: where the dosage and method are varied
+Contrast_NN:  whereas the second type of radiation, ionizing radiation, is used for medical purposes.
+Cause_NS: because of the radiation,
+Manner-Means_NS:  using radiation therapy, radiosurgery, and radiotherapy.
+Evaluation_NS: </s> Introduction
+Condition_NS:  if the patient is not in a stable condition.
+Joint_NN:  and radiation therapy is used for other medical purposes.
+=====
+-----
+Prompt: I wished he put more effort into the work he was doing, 
+No specified relation:  but I was too busy to care.
+Elaboration_NS:  which is the main thing in life.
+Contrast_NN: but of course that meant that I was losing out on some of the time
+Cause_NS: because his lack of interest in his work and his lack of ability
+Manner-Means_NS: by giving more attention to the details of the work he was doing,
+Evaluation_NS:  but I was too busy to care.
+Condition_NS:  but I was too busy to care.
+Joint_NN:  and that he would not be so lazy as to let his work slip away.
+=====
+-----
+Prompt: I quote, “He is at the shop, 
+No specified relation: ” and I quote,
+Elaboration_NS:  where all his friends are waiting for him.
+Contrast_NN: or at the window
+Cause_NS:  because of his love for his wife, his love for his children, his love for his country.
+Manner-Means_NS:  as if to buy a new pair of shoes.
+Evaluation_NS: ” and I quote,
+Condition_NS:  If it be the will of God.
+Joint_NN:  and I am at the office.
+=====
+-----
+Prompt: Many people focused on the economics of the situation, 
+No specified relation:  but the real issue was the morality of the situation.
+Elaboration_NS: where corporations,
+Contrast_NN:  whereas the more important factor was that the people who were being attacked were civilians.
+Cause_NS: because people worried
+Manner-Means_NS: using the fact that the government had to pay for the war
+Evaluation_NS:  but the real issue was the morality of the situation.
+Condition_NS:  if it was a short-lived phenomenon.
+Joint_NN:  and how it could be solved.
+=====
+-----
+Prompt: Will there be improvement if everyone is satisfied, 
+No specified relation: and if the person is satisfied,
+Elaboration_NS: including customers, employees, suppliers, and others?
+Contrast_NN: however I'm confused
+Cause_NS: because of the lack of experience,
+Manner-Means_NS:  knowing their own personal contribution and not the total contribution of the company as a whole to the company's profit and loss account as a whole as a whole
+Evaluation_NS: and if the person
+Condition_NS: unless there is not another solution else
+Joint_NN: and if all the people are satisfied,
+=====
+-----
+Prompt: Ignite the fire in my heart, 
+No specified relation: And let it burn brightly,
+Elaboration_NS:  that makes my life worth living.
+Contrast_NN: but don't know what you're thinking about?"
+Cause_NS:  And I will burn with the flame of love.
+Manner-Means_NS:  as with a torch in a dark room,  I will light the way to the light of the day.
+Evaluation_NS:  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+Condition_NS:  And let it burn brightly in my soul.
+Joint_NN: and burn me to ashes,
+=====
+-----
+Prompt: Our products were not available for long, 
+No specified relation: </s> Introduction
+Elaboration_NS: especially those that used wood as the raw material,
+Contrast_NN: please come back soon
+Cause_NS:  because of the lack of a reliable and efficient production method.
+Manner-Means_NS: </s> Introduction
+Evaluation_NS: </s> Introduction
+Condition_NS: if you buy directly from the manufacturer,
+Joint_NN: and the only thing left was the old one, which was still working,
+=====
+-----
+Prompt: West and east represent the two hemispheres, 
+No specified relation: </s> Introduction
+Elaboration_NS: where the north pole is the north pole of the earth
+Contrast_NN:  while north and south represent the two poles.
+Cause_NS: thus the two circles
+Manner-Means_NS:  by using the north and south poles as the reference points.
+Evaluation_NS: </s> Introduction
+Condition_NS: </s> Introduction
+Joint_NN:  and are represented by the two colors red and blue.
+=====
+-----
+Prompt: Instead of compliance, it pushes them more into rebellion, 
+No specified relation:  and the rebellion is more likely to be successful.
+Elaboration_NS: where instead of complying
+Contrast_NN:  yet it's also more likely that they will be killed by the rebels.
+Cause_NS:  resulting in more violence.
+Manner-Means_NS: by forcing them to act in ways that are not in their best interest,
+Evaluation_NS: this is good
+Condition_NS: if they are able to get their hands on the weapons
+Joint_NN:  and it makes them more likely to be killed by the enemy.
+=====
+-----
+Prompt: Cars will have to weave in the race course, 
+No specified relation:  and the race will be held on a single track.
+Elaboration_NS: which is a mixture of straight and curves,
+Contrast_NN:  not outright off the course during the race.
+Cause_NS:  allowing the NASCAR Cup Series to be held in the same facility.
+Manner-Means_NS: using the road
+Evaluation_NS:  and the race will be held on a single track.
+Condition_NS:  if they wish to compete in the race.
+Joint_NN:  and will be required to maintain a safe distance from other cars.
+=====
+-----
+Prompt: The operation will be 100% successful, 
+No specified relation:  but the user will be unable to access the database.
+Elaboration_NS:  which is due to the user confirmation.
+Contrast_NN:  otherwise failure.
+Cause_NS:  because of the following reasons:  1) The number of the items in the list is less than the number of the items in the array. 
+Manner-Means_NS:  by checking the status of the connection.
+Evaluation_NS: this means it is safe to use,
+Condition_NS: if the user is logged in
+Joint_NN:  and all the files will be deleted from the server.
+=====
+-----
+Prompt: The predator soon became the prey, 
+No specified relation: and the two were soon separated
+Elaboration_NS:  which was caught in the net. 
+Contrast_NN: yet this one was so stubborn
+Cause_NS:  resulting in the deaths of several of the fish.
+Manner-Means_NS: by eating the fish
+Evaluation_NS: and the two were soon separated
+Condition_NS: and the two were soon separated
+Joint_NN:  and had no choice but to eat it. 
+=====
+-----
+Prompt: A throwing card will cut through the air, 
+No specified relation:  and the card will be thrown away.
+Elaboration_NS: which is a form of energy,
+Contrast_NN: but not the cards
+Cause_NS: causing the air to be sucked in
+Manner-Means_NS:  hitting the card holder with a force equal to the weight of the card. 
+Evaluation_NS:  and the card will be thrown away.
+Condition_NS: if you are able to throw it into the air,
+Joint_NN: and will cause the card to fly away from the player,
+=====
+-----
+Prompt: You will look for adventure, soon, 
+No specified relation:  and you will find it.
+Elaboration_NS: which takes place in the hinterland,
+Contrast_NN: or a quiet life,
+Cause_NS:  because you are a member of this club.
+Manner-Means_NS: by going to the mountains
+Evaluation_NS: you will see
+Condition_NS:  if you keep your eyes open.
+Joint_NN:  and if you find it, it will be a good one.
+=====
+-----
+Prompt: That action was in violation of the conduct, 
+No specified relation: and the United States was not in a position to take any action
+Elaboration_NS: which is the same as "violation of protocol",
+Contrast_NN: or that the action was illegal?"
+Cause_NS:  because that action  did not meet the requirements of the United Nations Charter.
+Manner-Means_NS:  by means of which the State party had recognized the State party's right to an effective remedy under article 6 of the Covenant in the present case as a
+Evaluation_NS: and the United Nations should have taken appropriate action
+Condition_NS: if not the law of the land
+Joint_NN:  and was not authorized by the United Nations or the Security Council.
+=====
+-----
+Prompt: Well, there was never a chance to begin with, 
+No specified relation: but I think
+Elaboration_NS: which you mention,
+Contrast_NN: but since you're
+Cause_NS: because that I didn't know
+Manner-Means_NS: but I think
+Evaluation_NS:  -_-'"  -_-'"  -_-'"  -_-'"  -_-'"  -_-'"  -_-'"  -_-
+Condition_NS: unless you were a member of the club
+Joint_NN:  and, besides, it was a long way from home.
+=====
+-----
+Prompt: I swear that the fatigue comes from an iron deficiency, 
+No specified relation:  and I have been taking iron supplements for the past few months.
+Elaboration_NS: where the people eat nothing,
+Contrast_NN:  whereas the lack of vitamin C causes fatigue.
+Cause_NS:  due to the lack of iron in the diet.
+Manner-Means_NS: without using any kind of medication
+Evaluation_NS: -shame, -worse!"
+Condition_NS: if I had been in the same position,
+Joint_NN:  and also from a lack of sleep.
+=====
+-----
+Prompt: Both schedules coincide at noon, 
+No specified relation:  but the two are not synchronized.
+Elaboration_NS: which is the time of the day
+Contrast_NN: however due to lunch break
+Cause_NS: because of the time of day,
+Manner-Means_NS:  by a small margin  or by a large margin.
+Evaluation_NS:  meaning that, at 12:00 p.
+Condition_NS:  if the time is correct.
+Joint_NN:  and are separated by lunchtime.
+=====
+-----
+Prompt: They pitched the tent up near the cluster of trees, 
+No specified relation: and the men and women of the village gathered around them,
+Elaboration_NS: where they were sheltered from rain,
+Contrast_NN:  or wherever the sunrise  light  of the rising sun  of the  rising  sun  of the  rising  sun  of the 
+Cause_NS:  making it a little more secluded.
+Manner-Means_NS:  as it was in the best of  the  best  of  the  best  of  the  best  of  the  best 
+Evaluation_NS: and the men and women of the village gathered around them,
+Condition_NS: and the men and women of the village gathered around them,
+Joint_NN:  and watched the sun rise over the hills.
+=====
+-----
+Prompt: The speaker reviewed the agenda for the board meeting, 
+No specified relation:  and the agenda was approved by the board at its meeting of May 15, 2015.
+Elaboration_NS:  which was to be held on Thursday, May 3, at 7 p.
+Contrast_NN: but felt that the report was too long
+Cause_NS:  raising the item.
+Manner-Means_NS: stating that
+Evaluation_NS:  and the agenda was approved by the board at its meeting of May 15, 2015.
+Condition_NS:  and the agenda was approved by the board at its meeting of May 15, 2015.
+Joint_NN:  and discussed the various issues raised by the Board of Directors.
+=====
+-----
+Prompt: Jeff was not accepted into Harvard Law School, 
+No specified relation: but he was accepted into the University of Pennsylvania Law School,
+Elaboration_NS: which was his major choice,
+Contrast_NN: but continued working on a case
+Cause_NS:  because his parents objected to his homosexuality.
+Manner-Means_NS:  where he would have studied law under his father in the early 20th century.
+Evaluation_NS: but he was accepted into the University of Pennsylvania Law School,
+Condition_NS: but he was accepted into the University of Pennsylvania Law School,
+Joint_NN:  and was not admitted to the bar. 
+=====
+-----
+Prompt: She had left the cupboard open when she went to grab a glass, 
+No specified relation: and the glass was broken,
+Elaboration_NS: which she left in the cupboard,
+Contrast_NN:  but forgot to close the door. 
+Cause_NS:  because her cup had not been replaced. 
+Manner-Means_NS: leaving it open by mistake herself
+Evaluation_NS: and she had left the cupboard open
+Condition_NS: and the glass was broken,
+Joint_NN: and had been unable to close it properly,
+=====
+-----
+Prompt: The difficulty of the exam was unparalleled by any he had taken before, 
+No specified relation: and he
+Elaboration_NS:  including, perhaps, those offered to students in England.
+Contrast_NN: yet the teacher was
+Cause_NS: because of the length of the exam,
+Manner-Means_NS: and he
+Evaluation_NS: and he
+Condition_NS: and he
+Joint_NN: and, for many months afterward
+=====
+-----
+Prompt: Roughly ten thousand years ago, the glacier retreated, 
+No specified relation:  and the land was covered with ice.
+Elaboration_NS: which left behind the rock and ice,
+Contrast_NN:  and the land was covered with ice.
+Cause_NS:  resulting in the formation of the Great Lakes.
+Manner-Means_NS: moving northward
+Evaluation_NS:  and the land was covered with ice.
+Condition_NS:  and the land was covered with ice.
+Joint_NN:  and was only a few meters thick at the time of the last glaciation.
+=====
+-----
+Prompt: The once-beautiful stained glass windows of the cathedral had been shattered, 
+No specified relation: and the stained glass was replaced with a new one
+Elaboration_NS: which was the first sign of the end of the cathedral,
+Contrast_NN: but the stained glass of the choir windows had not been broken down
+Cause_NS:  exposing a new interior. 
+Manner-Means_NS:  along with most of the painted panels  in the centuries of the paintings'  end of the  end of the  paintings'  end  in
+Evaluation_NS: and the stained glass was replaced with a new one
+Condition_NS: and the stained glass was replaced with a new one
+Joint_NN: and the stained glass was being replaced,
+=====
+-----
+Prompt: I see him cutting the sandwich straight across, but it should be diagonal, 
+No specified relation:  and I don't see the cut at all.
+Elaboration_NS:  which I have not noticed.
+Contrast_NN:  or something like that.
+Cause_NS:  'cause I am not very observant.
+Manner-Means_NS: using
+Evaluation_NS:  that's it.
+Condition_NS:  if he is going to cut the sandwich diagonally.
+Joint_NN: and, more importantly, it should be a sandwich, not a piece of meat.
+=====
+-----
+Prompt: We are on equal footing, 
+No specified relation:  and we are not going to be bullied by the other side.
+Elaboration_NS:  which has never happened in history.
+Contrast_NN: but you're not listening right now right now
+Cause_NS:  because of the way we both feel.
+Manner-Means_NS:  as brothers  brothers  brothers  brothers in a  brothers  brothers  brothers  brothers in a  brothers  brothers  brothers  brothers in a
+Evaluation_NS:  that's right.
+Condition_NS:  unless we choose not to.
+Joint_NN: and we will be working together
+=====
+-----
+Prompt: The fact that the Manx cat has no tail seems quite odd, 
+No specified relation:  but it is not unusual for a cat to have a tail.
+Elaboration_NS: especially in comparison to the other cats
+Contrast_NN: but the fact that the Manx cat has a tail seems quite strange too to me
+Cause_NS:  because the skin over the skin of the cat  is very soft.
+Manner-Means_NS:  especially in the context of the cat's origin.
+Evaluation_NS: even for a cat,
+Condition_NS: unless it is a cat of some other species, such as the common cat,
+Joint_NN: and it seems to me that the reason for this is that the tail is not really a part of the cat's anatomy at all,
+=====
+-----
+Prompt: I'm familiar with the concept of metric modulation, 
+No specified relation: but I don't know how to implement it in a way
+Elaboration_NS: where when changing the modulation,
+Contrast_NN:  but I'm confused as to how that works for modulation codes.
+Cause_NS: but I don't know how to implement it in a way
+Manner-Means_NS: but I don't know how to implement it in a way
+Evaluation_NS: but I don't know how to implement it in a way
+Condition_NS: but I don't know how to implement it in a way
+Joint_NN: and I know that the modulation is a function of the frequency of the signal,
+=====
+-----
+Prompt: This presentation is teaching me a lot about water snakes, 
+No specified relation:  and how they are different from other snakes.
+Elaboration_NS:  which I have never seen before.
+Contrast_NN:  yet I'm still learning a lot about how water snakes are able to survive in the wild.
+Cause_NS:  so i am getting more knowledge about them.
+Manner-Means_NS:  with examples of the different types of water snakes.
+Evaluation_NS:  - something about snakes. 
+Condition_NS: if I had known about this before,
+Joint_NN:  and how they live in the wild, and how they are a threat to humans.
+=====
+-----
+Prompt: There's a few different foods for lunch today: sandwiches, apples, and brownies, 
+No specified relation:  and a few other things.
+Elaboration_NS: which are made with a variety of ingredients,
+Contrast_NN:  or maybe cookies.
+Cause_NS: so there's nothing
+Manner-Means_NS:  as well as a few other things.
+Evaluation_NS:  and a few other things.
+Condition_NS:  and a few other things.
+Joint_NN: and maybe even some fruit,
+=====
+-----
+Prompt: This wedding venue has a lot of unique decorations, 
+No specified relation:  and it is a perfect place for a wedding ceremony.
+Elaboration_NS:  including a large tree, a large fountain, and a large waterfall.
+Contrast_NN: but it's not so much unique decorations
+Cause_NS:  because of the location of the venue.
+Manner-Means_NS:  like an  unobtrusive and natural way, in a subtle and delicate way with a very refined touch of the most beautiful and delicate of the
+Evaluation_NS: and it is worth it!"
+Condition_NS:  and it is a perfect place for a wedding ceremony.
+Joint_NN:  and is a great place to have a wedding.
+=====
+-----
+Prompt: The sacrificial ritual is now complete, 
+No specified relation: and the body of the dead is placed in a coffin,
+Elaboration_NS: which is followed by exorcisms,
+Contrast_NN: but what happens to the woman who was killed?
+Cause_NS: because of the sacrifice of the lamb,
+Manner-Means_NS:  according to its own terms of the contract, and the new man is now the new Lord of the new land, the new ruler of the new people
+Evaluation_NS: and the body of the dead is placed in a coffin,
+Condition_NS:  if you will permit me to speak to you in private.
+Joint_NN: and,
+=====
+-----
+Prompt: If I have to put up with this boring presentation for another hour, I'll reach my limit, 
+No specified relation:  and I'll be done with this job.
+Elaboration_NS:  which is 20 minutes.
+Contrast_NN: or else I'll find a new job
+Cause_NS:  because I don't know what I am supposed to say.
+Manner-Means_NS: by getting up
+Evaluation_NS: ),
+Condition_NS: if I get to the point of my own personal limit,
+Joint_NN:  and won't be able to do anything else.
+=====
+-----
+Prompt: The fossil fuel industry will be near-obsolete by 2100, 
+No specified relation:  and the global energy demand will be met by renewable energy sources.
+Elaboration_NS:  which has been predicted by scientists and economists.
+Contrast_NN:  whereas renewable energy sources will continue to grow.
+Cause_NS: because of the increasing cost of fossil fuel extraction
+Manner-Means_NS: taking a new approach to the use of fossil fuels in the form of a new energy system
+Evaluation_NS: meaning it is safe to use
+Condition_NS:  given current energy consumption, with a projected peak in energy consumption of about 1.
+Joint_NN:  and will no longer be able to meet the demand for energy.
+=====
+-----
+Prompt: Once the clouds go away, the sunshine will dry us off, 
+No specified relation:  and the sun will shine on us again.
+Elaboration_NS:  which is the main part of the winter.
+Contrast_NN: but my hands are so wet
+Cause_NS:  because of the heat.
+Manner-Means_NS: a gentle breeze
+Evaluation_NS:  and the sun will shine on us again.
+Condition_NS:  if we keep our eyes open.
+Joint_NN:  and will warm us up.
+=====
+-----
+Prompt: She's a great candidate, and will accomplish a lot for the company, 
+No specified relation:  but she is not a good fit for the position.
+Elaboration_NS:  which is a major accomplishment for her.
+Contrast_NN:  yet she's not a member of the board.
+Cause_NS: her work ethic and attitude,
+Manner-Means_NS: by being a good leader
+Evaluation_NS:  that's great news for us.
+Condition_NS:  if she is given the chance.
+Joint_NN:  and the company will be able to continue to grow.
+=====
+-----
+Prompt: I'll cower in the corner if you threaten to hit me again, 
+No specified relation:  but I won't let you do that to me.
+Elaboration_NS:  which is my life, not yours.
+Contrast_NN: not me calling you back downstairs on purpose at the same time
+Cause_NS:  'cause I got nothing else left in me.
+Manner-Means_NS:  with your gun or your knife, or your gun or your knife, or your gun or your knife, or your gun or your knife, or your
+Evaluation_NS:  but I won't let you do that to me.
+Condition_NS:  unless you really wanna get your ass shot in the head.
+Joint_NN: and if I don't,
+=====
+-----
+Prompt: I used to wish that I had housing, 
+No specified relation:  but I don't have one now.
+Elaboration_NS:  which is my dream, but I have been living in rented accommodation for the last few years.
+Contrast_NN:  but my wife and I are getting divorced.
+Cause_NS:  because I got married. 
+Manner-Means_NS:  like in New Jersey housing  in order to get a better education. 
+Evaluation_NS:  but I don't have one now.
+Condition_NS:  if I could only get one, but I don't  have any money. 
+Joint_NN:  and had a job, but I don't have any of those things now.
+=====
+-----
+Prompt: He told me that he could swim, but he lied, 
+No specified relation: he said
+Elaboration_NS: he said
+Contrast_NN: that he didn't know
+Cause_NS:  because he couldn't swim.
+Manner-Means_NS: saying he
+Evaluation_NS: he said
+Condition_NS: he said
+Joint_NN: and had no idea
+=====
+-----
+Prompt: Sarah’s joke was hilarious, 
+No specified relation:  and I was so happy to see her smile.
+Elaboration_NS: which included Michael Jackson,
+Contrast_NN: but also one that I think is very dangerous:
+Cause_NS:  because of the lack of faith in the possibility that I could get pregnant.
+Manner-Means_NS:  and I was so happy to see her smile.
+Evaluation_NS: she, and also Loren would do it at first
+Condition_NS:  and I was so happy to see her smile.
+Joint_NN: and, indeed, quite funny,
+=====
+-----
+Prompt: The monk lived in the abbey, 
+No specified relation: and was a great friend of the king,
+Elaboration_NS: where the monks were called
+Contrast_NN:  but was absent for the winter. 
+Cause_NS:  because he was not able to go back to his home in the city.
+Manner-Means_NS:  by himself, without a wife or child.
+Evaluation_NS: and was a great friend of the king,
+Condition_NS: and was a great friend of the king,
+Joint_NN:  and was a great friend of the king.
+=====
+-----
+Prompt: He was a great performer, 
+No specified relation:  and a great friend to me.
+Elaboration_NS: who played in the theatre,
+Contrast_NN:  yet he's a very quiet man.
+Cause_NS: because of the lack of sleep,
+Manner-Means_NS:  having no need of a great orchestra or a great  soloist in a  major  or minor  part of his  career  in 
+Evaluation_NS: - good
+Condition_NS:  if you know what I mean.
+Joint_NN:  and had a great voice.
+=====
+-----
+Prompt: He had been a host at a famous restaurant, 
+No specified relation:  and had been known to be a very good host. 
+Elaboration_NS: where the owner had a daughter,
+Contrast_NN:  but was forced to leave the city in the middle of the war. 
+Cause_NS:  so people knew him. 
+Manner-Means_NS:  by his own admission, in the past, in the past.
+Evaluation_NS:  and had been known to be a very good host. 
+Condition_NS:  and had been known to be a very good host. 
+Joint_NN:  and had been known to be a very good host. 
+=====
+-----
+Prompt: The food she made tasted really good, 
+No specified relation: and
+Elaboration_NS: which she ate in the morning,
+Contrast_NN: but
+Cause_NS: because of the addition
+Manner-Means_NS: her
+Evaluation_NS: so much better than anything else
+Condition_NS: and
+Joint_NN: and
+=====
+-----
+Prompt: The friendly girl runs lazily in the game, 
+No specified relation:  and the game is very easy to play.
+Elaboration_NS: where is a lot of people,
+Contrast_NN:  yet I feel like I am running in the opposite direction.
+Cause_NS: because of the lack of a real life counterpart,
+Manner-Means_NS: talking and laughing,
+Evaluation_NS:  and the game is very easy to play.
+Condition_NS:  and the game is very easy to play.
+Joint_NN:  and is a good friend to the player.
+=====
+-----
+Prompt: I suggest you keep trying, 
+No specified relation: but if you keep getting the same error,
+Elaboration_NS: which has 2 solutions,
+Contrast_NN: but I'm afraid
+Cause_NS: and I will get
+Manner-Means_NS: using the following code
+Evaluation_NS:  that's what good luck to you.
+Condition_NS: if you still have problems,
+Joint_NN: and if you
+=====
+-----
+Prompt: I think the story has a clearance sale, 
+No specified relation: but I don't know
+Elaboration_NS: where the people buy
+Contrast_NN: but I'm unsure
+Cause_NS:  because you are selling a large item.
+Manner-Means_NS: by buying the whole set of books,
+Evaluation_NS: that's great
+Condition_NS: if you buy the book
+Joint_NN: and that the people
+=====
+-----
+Prompt: Let him dance on stage, 
+No specified relation: and let him sing his song,"
+Elaboration_NS: where he'll be free to do
+Contrast_NN:  or dance on stage alone  on stage alone  on stage alone  on stage alone  on stage alone  on stage alone on stage alone on stage
+Cause_NS: all for the joy
+Manner-Means_NS:  as though nothing had happened to him.
+Evaluation_NS: and let him sing his song,"
+Condition_NS:  if you please.
+Joint_NN:  and sing his praises to the world.
+=====
+-----
+Prompt: This task is quite difficult, 
+No specified relation:  because the number of possible solutions is huge.
+Elaboration_NS: which has several obstacles, such as large and complex system,
+Contrast_NN: but I think that you are able to do it reasonably well:
+Cause_NS:  because one cannot  extract  features  directly  from  historical  values.
+Manner-Means_NS:  especially for the first time.
+Evaluation_NS: -_-)
+Condition_NS: if you are not familiar with the language,
+Joint_NN:  and the system is not able to find the correct answer.
+=====
+-----
+Prompt: He tells me to stand up, but I do not like to listen, 
+No specified relation:  and I am afraid to do so.
+Elaboration_NS: who said
+Contrast_NN:  yet my body is trembling.
+Cause_NS:  because I cannot. 
+Manner-Means_NS:  saying that I will sit down later.
+Evaluation_NS:  and I am afraid to do so.
+Condition_NS: unless I want to get hurt
+Joint_NN: and when I ask him why he
+=====
+-----
+Prompt: My favorite meat is chicken, 
+No specified relation:  but I also like to eat fish, beef, and pork.
+Elaboration_NS:  which I cook in a variety of ways.
+Contrast_NN:  fish, or vegetarian options.
+Cause_NS:  so I get lots of flavor out of the skin.
+Manner-Means_NS:  as I used to do in India.
+Evaluation_NS: you should be happy with it,
+Condition_NS: if I can find it,
+Joint_NN:  and I like to cook it in a variety of ways.
+=====
+-----
+Prompt: My rubbish singing scares away the birds, 
+No specified relation:  and the birds sing my rubbish.
+Elaboration_NS:  who are so fond of my song.
+Contrast_NN: but this is a very rare one
+Cause_NS: because of the noise
+Manner-Means_NS:  like a witch's wand, and makes the birds sing again.
+Evaluation_NS: and I am glad
+Condition_NS: If it had been
+Joint_NN:  and the bees, and the butterflies, and the bees, and the butterflies, and the bees, and the bees, and the
+=====
+-----
+Prompt: The lightning will shock me if I go out, 
+No specified relation: but I will not go out
+Elaboration_NS: which I intend to,"
+Contrast_NN:  while those who are afraid  of the storm  and the lightning  will be shaken by the storm and the lightning.
+Cause_NS:  'cause I don't know  the weather.
+Manner-Means_NS: but I will not go out
+Evaluation_NS: but I will not go out
+Condition_NS:  unless I die first.
+Joint_NN: and if I go out,
+=====
+-----
+Prompt: We will not go out to dinner this week, 
+No specified relation: but we will go to a movie tonight,
+Elaboration_NS: - where
+Contrast_NN: I'm having a meeting on the board of the American Academy of Arts and Sciences
+Cause_NS:  because you are not invited.
+Manner-Means_NS: but we will go to a movie tonight,
+Evaluation_NS: but we will go to a movie tonight,
+Condition_NS: unless you want to,
+Joint_NN: and neither will we go to the movies,
+=====
+-----
+Prompt: We have to take part later, 
+No specified relation: </s> Introduction
+Elaboration_NS: which is tomorrow,
+Contrast_NN: we have to take part in the future,
+Cause_NS:  because I can't be present at the meeting.
+Manner-Means_NS: by going to the library,
+Evaluation_NS: -he said,
+Condition_NS:  if we want to be able to get the results.
+Joint_NN: and I'm not sure if I can do it alone,
+=====
+-----
+Prompt: The angle is going to be weird, 
+No specified relation:  but I think it will work. 
+Elaboration_NS: which I thought
+Contrast_NN:  or very small, depending on the size of the object.
+Cause_NS:  'cause I got a lot of people in here. 
+Manner-Means_NS: like I never did
+Evaluation_NS: which is good
+Condition_NS: if you are looking for a specific angle,
+Joint_NN: and the angle is going to be weird,
+=====
+-----
+Prompt: I will set the ball to you, then I want you to spike it, 
+No specified relation:  and I want you to hit the ball with your foot.
+Elaboration_NS: which you did
+Contrast_NN: not you
+Cause_NS:  so it makes a nice target.
+Manner-Means_NS:  using the ball as a target.
+Evaluation_NS:  that's it, man.
+Condition_NS:  if you can.
+Joint_NN: will do not forget to shoot it,
+=====
+-----

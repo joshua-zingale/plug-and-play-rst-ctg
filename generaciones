@@ -1,0 +1,1100 @@
+Prompt: El perro saltó sobre la cama, 
+No specified relation: y se puso a ladrar
+Elaboration_NS: donde estaba el cadáver de su amo,
+Contrast_NN: pero no dijo nada
+Cause_NS:  porque su amo no estaba allí.
+Manner-Means_NS: diciendo que no le importaría un comino
+Evaluation_NS: y se puso a ladrar
+Condition_NS: se comió
+Joint_NN: y no pudo evitar gritar de dolor,
+=====
+-----
+Prompt: Estoy leyendo un libro interesante en este momento, 
+No specified relation:  y me gustaría saber si alguien sabe si hay algún tipo de prueba que pueda ayudar a determinar si un niño tiene autismo o no.
+Elaboration_NS:  titulado "Cómo hacer que tu hijo sea un buen estudiante", y me gustaría que me ayudara a entender cómo puedo ayudar a mi hijo a ser
+Contrast_NN: mientras que tú estás en un estado de sueño profundo
+Cause_NS:  porque me he perdido tu blog.
+Manner-Means_NS:  y me gustaría saber si alguien sabe si hay algún tipo de prueba que pueda ayudar a determinar si un niño tiene autismo o no.
+Evaluation_NS:  y me gustaría saber si alguien sabe si hay algún tipo de prueba que pueda ayudar a determinar si un niño tiene autismo o no.
+Condition_NS:  se llama "Cómo ser un buen padre", de la escritora estadounidense, Susan B.
+Joint_NN: e intentaba encontrar una referencia para el tema de la historia de la música,
+=====
+-----
+Prompt: Mañana, saldré a correr al parque, 
+No specified relation:  y me voy a divertir mucho.
+Elaboration_NS:  donde estoy acostumbrado hacerlo", dijo.
+Contrast_NN: pero tengo miedo que mañana se vaya a llamar tormenta tropical
+Cause_NS:  porque mi hija no puede salir.
+Manner-Means_NS:  sin pararme ni un segundo en mi mente, ni en mi corazón, ni en mi cuerpo, ni en mi mente, ni en mi corazón,
+Evaluation_NS: ¡que lindo será!"
+Condition_NS:  si es que puedo hacerlo.
+Joint_NN:  a nadar en el río,  y a jugar con mis amigos.
+=====
+-----
+Prompt: El sol se puso sobre el horizonte, 
+No specified relation: y el cielo se llenó de estrellas brillantes,
+Elaboration_NS: que era un cielo azul,
+Contrast_NN: pero no se ve
+Cause_NS: dejando a la Tierra en un estado de calma y tranquilidad,
+Manner-Means_NS:  como un manto de estrellas brillantes  en la noche de la luna de la noche de la luna de la noche de la luna de la noche de la
+Evaluation_NS: y el cielo se llenó de estrellas brillantes,
+Condition_NS: y el cielo se llenó de estrellas brillantes,
+Joint_NN: y no había luna,
+=====
+-----
+Prompt: El bebé rió ante las caras graciosas, 
+No specified relation: y se puso a llorar,
+Elaboration_NS: que él,
+Contrast_NN: pero el hombre miró a su alrededor,
+Cause_NS: porque estaban muy cansadas,
+Manner-Means_NS: diciendo que
+Evaluation_NS: y se puso a llorar,
+Condition_NS: y se puso a llorar,
+Joint_NN: y sus ojos se abrieron
+=====
+-----
+Prompt: Me encanta comer helado de chocolate, 
+No specified relation:  pero no me gusta el sabor de la leche de coco.
+Elaboration_NS:  especialmente uno recién horneado.
+Contrast_NN: pero no puedo comer chocolate caliente
+Cause_NS: porque soy muy dulce;
+Manner-Means_NS: así que me voy a comprar un helado de chocolate
+Evaluation_NS: ¡como la verdadera receta de la abuela!
+Condition_NS: si me lo permites,
+Joint_NN: y no me importa que sea de vainilla, de chocolate o de crema,
+=====
+-----
+Prompt: En el futuro, los robots ayudarán con las tareas del hogar, 
+No specified relation: pero también podrán ayudar a las personas a realizar tareas
+Elaboration_NS: incluyendo el cuidado de ancianos,
+Contrast_NN: pero en la actualidad son máquinas que se han convertido en seres humanos
+Cause_NS:  así como con las tareas de cuidado de los ancianos, y también con las tareas de la vida diaria.
+Manner-Means_NS:  trabajando en conjunto con los humanos.
+Evaluation_NS: pero también podrán ayudar a las personas a realizar tareas
+Condition_NS: pero también podrán ayudar a las personas a realizar tareas
+Joint_NN:  y también podrán ayudar a las personas con discapacidades físicas o mentales.
+=====
+-----
+Prompt: El coche tocó la bocina fuertemente en la calle transitada, 
+No specified relation: y el conductor se dio la vuelta
+Elaboration_NS: que estaba repleta de gente,
+Contrast_NN:  pero ningún policía se acercó. 
+Cause_NS: causando que el conductor del vehículo se diera a la fuga,
+Manner-Means_NS: diciendo que su coche era un Mercedes de color negro con un número de matrícula de Alemania
+Evaluation_NS: y el conductor se dio la vuelta
+Condition_NS: y el conductor se dio la vuelta
+Joint_NN: o, quizás, incluso chocó contra un poste de luz,
+=====
+-----
+Prompt: Ella bailó con gracia en el escenario, 
+No specified relation:  y se puso a cantar con la misma gracia.
+Elaboration_NS:  donde estuvo rodeada de gente maravillosa.
+Contrast_NN: pero yo estaba tan cansada
+Cause_NS: porque me conocías,
+Manner-Means_NS: diciendo,
+Evaluation_NS: ¡qué hermosa!"
+Condition_NS:  y se puso a cantar con la misma gracia.
+Joint_NN: y cantó con pasión en el coro,
+=====
+-----
+Prompt: Disfruté de una deliciosa cena en el restaurante anoche, 
+No specified relation: y me gustaría que me acompañaras a cenar esta noche,
+Elaboration_NS:  donde probamos platos de la cocina francesa, italiana y española.
+Contrast_NN: pero pensé que estaba demasiado caliente
+Cause_NS: gracias a la amabilidad de todos los que me ayudaron
+Manner-Means_NS:  comiendo un vino de Chardonnay y una sopa de verduras con un toque de ajo y pimienta negra.
+Evaluation_NS: agradecí mucho la gentileza,
+Condition_NS: si usted está interesado en conocer más sobre la historia de la ciudad,
+Joint_NN: y tenía ganas de ver el espectáculo de la puesta de sol,
+=====
+-----
+Prompt: Los pájaros cantan temprano en la mañana, 
+No specified relation: y los pájaros cantan tarde en la noche,
+Elaboration_NS: de donde sacan a colación,
+Contrast_NN:  o tarde en la noche en la noche de verano  y en la noche de invierno en la noche de invierno  y en la noche de invierno en
+Cause_NS: porque de madrugada,
+Manner-Means_NS: sin esperar a la oscuridad, sobre el techo de la casa,
+Evaluation_NS: y los pájaros cantan tarde en la noche,
+Condition_NS: se pisan los unos a los otros,
+Joint_NN: y cantan muy alto,
+=====
+-----
+Prompt: La próxima semana, planeo visitar a mis abuelos, 
+No specified relation:  y a mi tía, en la casa de mi tía abuela en el pueblo de mi tía abuela en el pueblo de mi tía abuela en el pueblo de
+Elaboration_NS:  que viven en el campo, y a mi tía, que vive en la ciudad.
+Contrast_NN: pero como estoy embarazada,
+Cause_NS:  porque he decidido que no quiero estar sola en casa.
+Manner-Means_NS:  así que te lo contaré todo en un día más tarde  y en un día más tarde  te lo contaré todo en un día más tarde
+Evaluation_NS:  y a mi tía, en la casa de mi tía abuela en el pueblo de mi tía abuela en el pueblo de mi tía abuela en el pueblo de
+Condition_NS: si Dios quiere,
+Joint_NN:  y a mi tía, que vive en el norte de Francia.
+=====
+-----
+Prompt: La película terminó con un giro sorprendente, 
+No specified relation:  que no se esperaba en absoluto.
+Elaboration_NS: que el protagonista,
+Contrast_NN: pero también llegó a un momento muy incómodo
+Cause_NS:  porque de repente alguien desapareció. 
+Manner-Means_NS: como si se tratara de una película de ciencia ficción:
+Evaluation_NS: el giro que quizás la obra más importante de la serie haya tenido hasta ahora,
+Condition_NS:  que no se esperaba en absoluto.
+Joint_NN: y tuvo un gran éxito de taquilla,
+=====
+-----
+Prompt: Él sonrió cálidamente al desconocido, 
+No specified relation: y le dijo:
+Elaboration_NS: que ahora se encontraba junto a él,
+Contrast_NN:  pero éste no dijo nada.
+Cause_NS: porque le estaba muy agradecida;
+Manner-Means_NS: diciendo que,
+Evaluation_NS: y le dijo:
+Condition_NS: se lo acerco
+Joint_NN: al exnovio de la chica,
+=====
+-----
+Prompt: El profesor explicó la lección con entusiasmo, 
+No specified relation: y los estudiantes se entusiasmaron con la idea de aprender más sobre la historia de la ciudad
+Elaboration_NS: “¿Sabías que en la Luna existen dos océanos?,”
+Contrast_NN: pero no sabía cómo llamar a su alumno:
+Cause_NS: porque estaba convencido de que él sabía algo muy especial
+Manner-Means_NS: diciendo:
+Evaluation_NS:  y la verdad es que fue excelente.
+Condition_NS:  deseando que el alumno se sintiera orgulloso de haberla aprendido.
+Joint_NN: habló de su trabajo,
+=====
+-----
+Prompt: La lluvia cayó intensamente fuera de la ventana, 
+No specified relation: y el aire se volvió húmedo
+Elaboration_NS: donde estaba sentado,
+Contrast_NN: pero nadie se quejó diciendo que
+Cause_NS: por lo que el techo se derrumbó sobre la casa,
+Manner-Means_NS: sin parar
+Evaluation_NS: y el aire se volvió húmedo
+Condition_NS: se la miraba con escepticismo,
+Joint_NN: y no había forma de salir,
+=====
+-----
+Prompt: Mi hermana canta hermosamente, 
+No specified relation: y yo también canto,
+Elaboration_NS: que ha estado en la escuela de música,
+Contrast_NN: pero es tan pequeña
+Cause_NS: porque su corazón está lleno de amor;
+Manner-Means_NS: cantando
+Evaluation_NS: y yo también canto,
+Condition_NS: si le gusta cantar bien,
+Joint_NN: y es muy buena en la guitarra,
+=====
+-----
+Prompt: Voy a encontrarme con mis amigos para almorzar más tarde hoy, 
+No specified relation: y luego voy a ir a la tienda de comestibles
+Elaboration_NS:  de la cual estoy muy ansioso de hablar con ustedes.
+Contrast_NN: no a tomar algo de té esta noche tan tarde?"
+Cause_NS:  porque me he enterado que hay algo de alcohol  en mi bebida de hierbas.
+Manner-Means_NS: así que te veré en el almuerzo, ¿de acuerdo?",
+Evaluation_NS:  ¡espero que disfrutes esta comida!".
+Condition_NS:  si es que puedo encontrarlos.
+Joint_NN:  y espero que estés allí también.
+=====
+-----
+Prompt: El anciano caminaba lentamente con su bastón, 
+No specified relation:  y su rostro se iluminaba con una sonrisa de felicidad.
+Elaboration_NS: que sostenía en la mano izquierda,
+Contrast_NN: pero sin mirar atrás
+Cause_NS: porque le dolía la pierna izquierda,
+Manner-Means_NS: tal como un hombre de edad avanzada,
+Evaluation_NS:  y su rostro se iluminaba con una sonrisa de felicidad.
+Condition_NS:  y su rostro se iluminaba con una sonrisa de felicidad.
+Joint_NN:  y miraba fijamente a la multitud que se agolpaba alrededor de él.
+=====
+-----
+Prompt: El despertador me despertó esta mañana, 
+No specified relation: y me di cuenta que no había nadie en casa,
+Elaboration_NS: que fue alrededor de las 7:30 am,
+Contrast_NN: pero pensé
+Cause_NS: porque estaba muy cansada,
+Manner-Means_NS: diciendo,
+Evaluation_NS: y me di cuenta que no había nadie en casa,
+Condition_NS: se suponía que debía estar en el trabajo,
+Joint_NN: y estaba muy cansado,
+=====
+-----
+Prompt: Las flores florecieron en colores vibrantes, 
+No specified relation: y los pájaros cantaron en sus alas,
+Elaboration_NS: que representaban la alegría y la esperanza de la primavera,
+Contrast_NN:  o en tonos más apagados, dependiendo de la estación del año y de la región en la que se cultivan.
+Cause_NS: porque estaban en el lugar correcto,
+Manner-Means_NS:  como en un arcoiris de un arcoíris de una estrella de mar  de un gran día de verano de un día de la semana de un
+Evaluation_NS: y los pájaros cantaron en sus alas,
+Condition_NS: se posaron en las ramas de los árboles,
+Joint_NN: y el aroma de las flores era tan dulce
+=====
+-----
+Prompt: Vi una estrella fugaz en el cielo nocturno, 
+No specified relation: y me pareció que era una estrella de Belén,
+Elaboration_NS: que brillaba como un rayo de luz,
+Contrast_NN: o si ves una estrella en el cielo, o si ves una luna llena en el cielo,
+Cause_NS: porque estaba en el cielo de la oscuridad,
+Manner-Means_NS: utilizando los ingredientes que tenía a mano,
+Evaluation_NS: perfecta para esta ocasión especial,
+Condition_NS: se la preparé
+Joint_NN: y ofreció un banquete a los invitados,
+=====
+-----
+Prompt: El chef preparó una comida deliciosa, 
+No specified relation: y el rey le dio un gran banquete,
+Elaboration_NS: donde incluyó un plato de carne de res, un plato de verduras y un plato de arroz con pollo,
+Contrast_NN: pero perdió su apetito en un momento crítico de la historia de la humanidad
+Cause_NS: porque le dio gracias a Dios;
+Manner-Means_NS: utilizando los ingredientes que tenía a mano,
+Evaluation_NS: perfecta para esta ocasión especial,
+Condition_NS: se la preparé
+Joint_NN: y ofreció un banquete a los invitados,
+=====
+-----
+Prompt: Ellos emprenderán una emocionante aventura, 
+No specified relation:  y tú serás el capitán de la nave espacial más grande del mundo.
+Elaboration_NS: donde deberán atravesar a través de un laberinto de trampas
+Contrast_NN:  o un viaje de regreso a casa, y descubrirán que la vida es más grande de lo que pensaban.
+Cause_NS:  porque han encontrado algo en el océano que no se había visto antes.
+Manner-Means_NS: tratando de encontrar una ruta de regreso
+Evaluation_NS: esta es la verdad, la única verdad,
+Condition_NS: se embarcarán en un crucero a bordo del barco más bello del mundo
+Joint_NN:  y podrán descubrir el secreto de la vida eterna.
+=====
+-----
+Prompt: El bebé lloró fuertemente cuando tenía hambre, 
+No specified relation: y yo le dije:
+Elaboration_NS: que es el instinto natural del bebé,
+Contrast_NN:  no cuando no lo tenía.
+Cause_NS:  porque no había comida en el refrigerador.
+Manner-Means_NS: sin parar
+Evaluation_NS: y yo le dije:
+Condition_NS: se había estado riendo de mí
+Joint_NN: y se le cayó la leche de la taza de té,
+=====
+-----
+Prompt: El atleta rompió el récord mundial, 
+No specified relation:  y se convirtió en el primer hombre en correr la maratón en menos de 4 horas y media.
+Elaboration_NS: que data de 1948,
+Contrast_NN: pero perdió en las últimas semanas contra rivales más fuertes,
+Cause_NS:  gracias a la velocidad que alcanzó en la prueba de los 100 metros lisos.
+Manner-Means_NS:  demostrando su increíble técnica y su increíblemente fuerte pierna izquierda en el salto con garrocha de la mano de su entrenador en la pista de entrenamiento de
+Evaluation_NS:  y se convirtió en el primer hombre en correr la maratón en menos de 4 horas y media.
+Condition_NS:  y se convirtió en el primer hombre en correr la maratón en menos de 4 horas y media.
+Joint_NN:  y estableció un nuevo record de la distancia en la pista cubierta, con un tiempo de 2:01.
+=====
+-----
+Prompt: El perro movió la cola felizmente, 
+No specified relation:  y se dirigió hacia la puerta de la casa de la señora de la granja.
+Elaboration_NS: mirando hacia atrás
+Contrast_NN: pero su dueño se dio cuenta que algo no iba bien
+Cause_NS:  porque finalmente  alguien estaba a punto de amamantarlo.
+Manner-Means_NS: diciendo:
+Evaluation_NS:  y se dirigió hacia la puerta de la casa de la señora de la granja.
+Condition_NS: se enroscó en el cuello de su dueño
+Joint_NN:  y la brisa se detuvo en su cuello.
+=====
+-----
+Prompt: Aprendí a tocar el piano cuando era joven, 
+No specified relation: y me gustaba mucho tocarlo,
+Elaboration_NS: como es natural,
+Contrast_NN: pero estaba
+Cause_NS:  porque mi padre me llevó a una audición de jazz  en Nueva York.
+Manner-Means_NS:  sin necesidad de un profesor.
+Evaluation_NS: y me gustaba,
+Condition_NS: y me gustaba mucho tocarlo,
+Joint_NN: y también canto en la iglesia,
+=====
+-----
+Prompt: El avión despegó sin problemas, 
+No specified relation: pero el piloto no pudo aterrizar en el lugar correcto,
+Elaboration_NS: incluso en el cielo justo en el momento en que estalló
+Contrast_NN: pero aterrizó demasiado tarde:
+Cause_NS:  por lo que el mundo se enteró de la noticia de la muerte de la reina Victoria, en el aeropuerto de Heathrow, Londres, el 31
+Manner-Means_NS: como se había planeado en un principio
+Evaluation_NS: pero el piloto no pudo aterrizar en el lugar correcto,
+Condition_NS: se precipitó hacia el mar
+Joint_NN:  y sin incidentes, hacia el aeropuerto de Los Ángeles, California, donde aterrizó a las 9.
+=====
+-----
+Prompt: Los niños jugaron alegremente en el parque, 
+No specified relation: y los adultos se sentaron a la sombra de los árboles,
+Elaboration_NS: donde jugaban a esconderse,
+Contrast_NN:  pero nadie dijo nada sobre lo ocurrido en la escuela.
+Cause_NS: porque estaban felices de poder conocer a alguien nuevo;
+Manner-Means_NS: diciendo
+Evaluation_NS: y los adultos se sentaron a la sombra de los árboles,
+Condition_NS: y los adultos se sentaron a la sombra de los árboles,
+Joint_NN:  y se divertieron mucho con los juegos de agua y los juegos de arena.
+=====
+-----
+Prompt: Asistiré a una conferencia el próximo mes, 
+No specified relation: y quiero que me acompañes a la misma,
+Elaboration_NS: en la que hablaré sobre el tema de la educación en la India,
+Contrast_NN: pero necesito saber cómo empezar a prepararme:
+Cause_NS: porque me he enterado de que hay una nueva droga
+Manner-Means_NS:  con un pequeño discurso, sobre el tema de la  verdad de la vida de los santos  que se encuentran en el Libro de los Hechos de
+Evaluation_NS: y quiero decirte que no me importa lo que pienses de mí,
+Condition_NS: si puedo encontrar tiempo para ello,
+Joint_NN: y quiero que conozcas a alguien que conozco bien,
+=====
+-----
+Prompt: La tormenta asustó a la niña pequeña, 
+No specified relation: y la niña pequeña se asustó a sí misma,
+Elaboration_NS: que estaba en el patio de la casa,
+Contrast_NN: pero nadie supo cómo reaccionar a su llamada:
+Cause_NS: porque no había nadie más cerca,
+Manner-Means_NS: y la niña pequeña se asustó a sí misma,
+Evaluation_NS: y la niña pequeña se asustó a sí misma,
+Condition_NS: y la niña pequeña se asustó a sí misma,
+Joint_NN:  a su madre, y a su padre, que se escondieron en las ramas de un árbol con el resto de la familia, a la espera de
+=====
+-----
+Prompt: Las olas chocaron contra la orilla, 
+No specified relation: y el agua se convirtió en arena,
+Elaboration_NS: donde descansaba la roca,
+Contrast_NN: pero las piedras de las rocas se rompieron
+Cause_NS: causando que el agua se moviera hacia el interior del mar,
+Manner-Means_NS: dejando detrás de sí sus bramidos
+Evaluation_NS: y el agua se convirtió en arena,
+Condition_NS: y el agua se convirtió en arena,
+Joint_NN: y la tierra tembló
+=====
+-----
+Prompt: La computadora se bloqueó y perdió todo mi trabajo, 
+No specified relation: pero no me preocupé,
+Elaboration_NS:  incluyendo los datos y las fotos de mi familia.
+Contrast_NN:  pero tú no eres un robot". 
+Cause_NS: porque estaba en una situación de emergencia,
+Manner-Means_NS: sin saber
+Evaluation_NS: es increíble,
+Condition_NS: si fuera un niño pequeño
+Joint_NN:  y no pude encontrar a nadie que pudiera ayudarme.
+=====
+-----
+Prompt: Ella se graduara de la universidad el próximo año, 
+No specified relation: y ella no quería que su padre la viera así,
+Elaboration_NS: ella es su mayor fan,
+Contrast_NN: pero no sabe que su padre murió de cáncer de pulmón
+Cause_NS: porque su padre no tenía dinero suficiente
+Manner-Means_NS:  sin saber lo que se sentía sobre ello ni lo que se sentía sobre su propia graduación de la universidad".
+Evaluation_NS: y eso es algo bueno,
+Condition_NS:  si lograba aprobar la prueba de ingreso a la universidad de la universidad de la universidad de la universidad de la universidad de la universidad de la universidad de
+Joint_NN: y quería que fuera su compañera de cuarto,
+=====
+-----
+Prompt: El mago realizó trucos asombrosos, 
+No specified relation: y los niños se divertían con sus trucos mágicos,
+Elaboration_NS: incluyendo magia negra,
+Contrast_NN: pero este último era diferente a todos los demás
+Cause_NS: causando que el cielo se oscureciera,
+Manner-Means_NS: usando la magia de la oscuridad y la luz,
+Evaluation_NS:  como el de la bola de fuego, el de la luz de la luna,  el de la luz de la luna, el de la luz de la
+Condition_NS: se le permitió ser su ayudante durante una época oscura,
+Joint_NN:  y demostró que podía hacer que las cosas sucedieran de la manera que él quisiera.
+=====
+-----
+Prompt: Me encanta el olor del café fresco por la mañana, 
+No specified relation:  y el olor de la leche caliente por la noche.
+Elaboration_NS:  que sale de la cafetera, y el aroma de una taza de chocolate caliente.
+Contrast_NN:  pero no puedo soportar el olor a café molido por la noche.
+Cause_NS:  porque de alguna forma tu me evades.
+Manner-Means_NS: como si fuera un buen día
+Evaluation_NS: ¡como para desayunar!"
+Condition_NS:  y el olor de la leche caliente por la noche.
+Joint_NN:  y también me encanta el olor a la hierba recién cortada por la tarde.
+=====
+-----
+Prompt: Los trabajadores de la construcción construyeron un puente resistente, 
+No specified relation: que se convirtió en el puente más largo del mundo,
+Elaboration_NS: que se utilizó
+Contrast_NN: pero las lluvias de la tormenta de la tarde del sábado hicieron que el río se desbordara
+Cause_NS: por el cual los trabajadores de la construcción pudieron atravesar el río,
+Manner-Means_NS: utilizando una mezcla de cemento, arena y piedra,
+Evaluation_NS: que se puede decir que no solo fue más rápido,
+Condition_NS: que se convirtió en el puente más largo del mundo,
+Joint_NN: y un puente
+=====
+-----
+Prompt: El fuego crepitaba y proporcionaba calor, 
+No specified relation: pero no era suficiente
+Elaboration_NS: donde eran consumidos por completo,
+Contrast_NN: pero no calentaba mucho:
+Cause_NS: porque era demasiado pequeña
+Manner-Means_NS: convirtiendo el carbón de madera en aceite de oliva
+Evaluation_NS: pero no era suficiente
+Condition_NS: se percibía su calor con una luz pálida,
+Joint_NN:  y, además, era un medio de comunicación entre los hombres y los dioses.
+=====
+-----
+Prompt: Visitaré el museo este fin de semana, 
+No specified relation: y me gustaría que me acompañaras a ver la exposición de la artista
+Elaboration_NS: donde es mi cumpleaños,
+Contrast_NN:  o al menos eso espero que me dejen hacer mañana  mañana  mañana  mañana  mañana  mañana  mañana  mañana  mañana  mañana  mañana
+Cause_NS: porque me he perdido el concierto de la orquesta de la universidad de Yale,
+Manner-Means_NS: así que te veré en el día de mañana,
+Evaluation_NS:  ¡que bien!", bromeó.
+Condition_NS:  si puedo encontrar tiempo.
+Joint_NN: e intentaré ver el museo de la guerra de Vietnam,
+=====
+-----
+Prompt: El bebé gateó hacia su juguete favorito, 
+No specified relation: y se sentó en él,
+Elaboration_NS:  que estaba justo en frente de él.
+Contrast_NN: o mientras su mamá y su papá estaban durmiendo
+Cause_NS: por su culpa, el bebé se lastimó
+Manner-Means_NS: jugando con él,
+Evaluation_NS: y se sentó en él,
+Condition_NS: se lo estaba buscando con entusiasmo
+Joint_NN:  y sus juguetes también lo hicieron.
+=====
+-----
+Prompt: El jugador de fútbol anotó un gol ganador, 
+No specified relation:  y el equipo de fútbol ganó el partido.
+Elaboration_NS:  que fue el segundo de su carrera, en el partido de la Copa Mundial de Fútbol de 1966, entre Alemania y Argentina, en el Estadio Azteca
+Contrast_NN: pero perdió una carrera de tres carreras
+Cause_NS: convirtiéndose en el primer jugador
+Manner-Means_NS:  marcando un gol de cabeza en el juego de la primera ronda contra el ganador del torneo de la copa de la confederación  de la temporada de la
+Evaluation_NS:  y el equipo de fútbol ganó el partido.
+Condition_NS: se le proporcionó un botín
+Joint_NN: y recibió una ovación de pie de su equipo,
+=====
+-----
+Prompt: Disfruto viendo películas en mi tiempo libre, 
+No specified relation:  y me gusta mucho la música, especialmente la música clásica.
+Elaboration_NS: donde,
+Contrast_NN:  no lo que sucede después  de terminarlas.
+Cause_NS:  porque me relaja.
+Manner-Means_NS: sin esfuerzo,
+Evaluation_NS:  y me gusta mucho la música, especialmente la música clásica.
+Condition_NS:  si es que se supone que lo haga.
+Joint_NN:  y creo que puedo ayudar a otros a disfrutar de ellas también.
+=====
+-----
+Prompt: El doctor recetó medicamentos para el paciente, 
+No specified relation: pero no funcionaron,
+Elaboration_NS: incluyendo un anticoagulante,
+Contrast_NN: pero esta medicación parece que no funciona bien en él,
+Cause_NS: porque cree que
+Manner-Means_NS:  así como en una botella con un líquido de color amarillo  y con un líquido de color rojo en la botella de la otra parte del cuerpo del paciente
+Evaluation_NS: pero no funcionaron,
+Condition_NS: pero no funcionaron,
+Joint_NN: y los pacientes no estaban tomando los medicamentos correctamente,
+=====
+-----
+Prompt: El artista pintó un hermoso paisaje, 
+No specified relation:  con un cielo azul y un sol brillante, con un cielo azul y un sol brillante, con un cielo azul y un sol brillante, con un cielo
+Elaboration_NS: donde la luz y el color se mezclan con la naturaleza,
+Contrast_NN: pero no pudo capturar su esencia:
+Cause_NS: del que resultó una obra de arte
+Manner-Means_NS: utilizando un pincel de color rojo
+Evaluation_NS: que recordaba la visita del pueblo al viejo puente antes de la gran inundación,
+Condition_NS: se le vio desde lejos con sus pinturas coloridas alrededor del monumento a Lincoln
+Joint_NN: y escribió en la parte superior de la obra:
+=====
+-----
+Prompt: Compraré comestibles de camino a casa, 
+No specified relation:  y te traeré un poco de té caliente.
+Elaboration_NS: que son de mi propiedad,
+Contrast_NN: pero como estoy en un viaje largo
+Cause_NS:  porque necesitaré un tiempo extra.
+Manner-Means_NS:  por si acaso", dijo el hombre en cuestión  antes de que yo entrara en la casa.
+Evaluation_NS: ¡como buenos,
+Condition_NS: si es posible,
+Joint_NN:  a casa, a casa, a casa, a casa, a casa, a casa, a casa, a casa, a casa, a casa,
+=====
+-----
+Prompt: El trueno retumbó a lo lejos, 
+No specified relation: y el viento se levantó con fuerza,
+Elaboration_NS:  En el suelo helado.
+Contrast_NN: y el cielo se llenó de nubes negras,
+Cause_NS:  porque estaba muy cerca.
+Manner-Means_NS:  como si fuera un grito de guerra de los dioses del mar  de la noche de la tormenta de verano  de la noche de la tormenta de
+Evaluation_NS: y el viento se levantó con fuerza,
+Condition_NS: y el viento se levantó con fuerza,
+Joint_NN:  y no había nadie en el mundo que pudiera oírlo.
+=====
+-----
+Prompt: El niño se rió incontrolablemente con el chiste, 
+No specified relation: y se puso a llorar
+Elaboration_NS: que decía:
+Contrast_NN: no a la pregunta sobre el tipo de persona que era que era diferente a la gente normal
+Cause_NS:  porque le molestó el tono de voz de su abuelo.
+Manner-Means_NS: diciendo que no sabía
+Evaluation_NS: y se puso a llorar
+Condition_NS: y se puso a llorar
+Joint_NN: y le preguntó a su madre
+=====
+-----
+Prompt: El girasol se giró hacia el sol, 
+No specified relation:  y el sol se giró hacia él.
+Elaboration_NS: donde brillaba con su luz,
+Contrast_NN: pero no se ve que se mueve hacia arriba
+Cause_NS:  porque la luz del sol era más fuerte que la luz de la luna.
+Manner-Means_NS: como un niño que se acerca a la luz del día,
+Evaluation_NS:  y el sol se giró hacia él.
+Condition_NS:  y el sol se giró hacia él.
+Joint_NN: y miró hacia atrás,
+=====
+-----
+Prompt: Conocí a un actor famoso en el evento de anoche, 
+No specified relation: y me dijo que
+Elaboration_NS:  que es el que interpreta a la Sra.
+Contrast_NN: pero parece que se marchó de vacaciones
+Cause_NS:  porque me lo pidió. 
+Manner-Means_NS: diciendo que
+Evaluation_NS: y me dijo que
+Condition_NS: y me dijo que
+Joint_NN: e incluso estaba en la lista de invitados de mi boda,
+=====
+-----
+Prompt: El avión despegó hacia un destino exótico, 
+No specified relation: pero el piloto no estaba contento con el resultado
+Elaboration_NS: donde nadie había estado antes,
+Contrast_NN: o hacia un lugar que parecía ser un lugar exótico
+Cause_NS: por razones de trabajo,
+Manner-Means_NS:  sin pensar en la verdad ni en la verdad de la verdad de la verdad de la verdad de la verdad de la verdad de la verdad de la verdad
+Evaluation_NS: lleno de sueños, anhelos, expectativas,
+Condition_NS: se lo imaginaba bien
+Joint_NN: y era muy pequeño,
+=====
+-----
+Prompt: En el parque, los niños juegan felices, 
+No specified relation:  y los adultos se relajan en el sol.
+Elaboration_NS:  donde siempre he jugado con mi hermano mayor, y mi padre, y mi abuelo, y yo, y mi abuela, y todos nosotros, y la
+Contrast_NN: pero las mujeres se quedan en silencio,
+Cause_NS: porque saben que pueden estar con alguien,
+Manner-Means_NS: jugando
+Evaluation_NS: ¡Papá!
+Condition_NS:  y los adultos se relajan en el sol.
+Joint_NN:  y sus familias también.
+=====
+-----
+Prompt: La noche estrellada inspira poesía, 
+No specified relation:  y la luna llena es un sueño de amor.
+Elaboration_NS: donde los hombres, según el mito, abandonan sus lamentos
+Contrast_NN: pero no tiene por qué ser dramática:
+Cause_NS: porque ilumina,
+Manner-Means_NS:  versos de su más noble expresión:  Un canto de amor y un canto de muerte:  Un grito de vida y un grito de desesperación.
+Evaluation_NS: y la verdad es que la poesía inspiran la noche"
+Condition_NS:  se le considera un elemento de magia, un elemento de misterio, un elemento de fantasía, un elemento de misterio, un elemento de fantasía,
+Joint_NN:  y música en los oídos de los amantes de la noche.
+=====
+-----
+Prompt: Los pájaros cantan melodías encantadoras, 
+No specified relation: y los árboles cantan melodías
+Elaboration_NS: que alegran mi alma
+Contrast_NN:  pero nadie escucha a nadie  excepto a los que están en el cielo, en el aire libre  y en las nubes altas de la noche  que
+Cause_NS:  porque están enamorados de ti,  de tu amor, de tu bondad, de tu dulzura.
+Manner-Means_NS: diciendo,
+Evaluation_NS:  como ya lo había escuchado...
+Condition_NS: se asemejan a ti tanto
+Joint_NN: y hacen que la gente se sienta feliz,
+=====
+-----
+Prompt: El científico hizo un descubrimiento asombroso, 
+No specified relation:  y lo compartió con el mundo entero:  que la luz del sol es una fuente de energía  que puede ser utilizada para generar electricidad, y que
+Elaboration_NS: que podría cambiar la forma en que vemos el mundo y cómo lo hacemos funcionar:
+Contrast_NN: pero también tiene un lado oscuro que muchos no saben:
+Cause_NS:  porque dijo que puede obtener  esa  vida del  esperma de  algunos  anfibios o  reptiles. 
+Manner-Means_NS: con una precisión de un milímetro, en un laboratorio de investigación
+Evaluation_NS: del mismo modo que el hombre descubrió la pólvora
+Condition_NS:  se le permitió seguir adelante con su trabajo, con su vida, con su vida, con su vida, con su vida, con su vida, con
+Joint_NN: y no es más que un experimento simple
+=====
+-----
+Prompt: Mañana aprenderé a cocinar una nueva receta, 
+No specified relation: y te la enseñaré a ti
+Elaboration_NS:  que será la receta de mi vida.
+Contrast_NN: no puedo hacerlo
+Cause_NS:  porque estoy muy cansada de mi trabajo en el campo.
+Manner-Means_NS: sin usar la harina de trigo,
+Evaluation_NS: ¡qué rico!",
+Condition_NS: si se me permite la expresión",
+Joint_NN:  a hacer algo nuevo, y a ser feliz.
+=====
+-----
+Prompt: El río fluye sereno entre las montañas, 
+No specified relation: y el cielo azul se extiende a lo lejos,
+Elaboration_NS: donde habitan los indios,
+Contrast_NN:  pero debajo de la superficie  la tierra y el agua se han convertido en un abismo de dolor y muerte.
+Cause_NS: porque ha estado en calma,
+Manner-Means_NS: como si se hubiera dormido en sus aguas durante siglos de vida en el valle de la cordillera de los Andes peruanos
+Evaluation_NS: y las aguas del río son dulces
+Condition_NS: se alarga hasta el mar,
+Joint_NN:  y tiene un hermoso paisaje de montaña y valle.
+=====
+-----
+Prompt: Los amigos rieron en la fiesta animada, 
+No specified relation: y el viejo se puso a cantar,
+Elaboration_NS: que tuvo lugar en el patio del colegio,
+Contrast_NN:  pero yo estaba enojado con alguien más.
+Cause_NS: porque oyeron cantar un coro,
+Manner-Means_NS: diciendo que no se veía nada de él desde hacía tiempo:
+Evaluation_NS: y la verdad es que lo que importaba era la diversión,
+Condition_NS: se asomaron a la ventana
+Joint_NN: y me dieron un beso en la mejilla,
+=====
+-----
+Prompt: El pintor mezcló colores vibrantes en el lienzo, 
+No specified relation:  y los colores se mezclaron en el alma de los espectadores.
+Elaboration_NS: que representaban la vida de la gente de la ciudad,
+Contrast_NN:  o bien opuestos con un contraste fuerte.
+Cause_NS:  porque de alguna manera no estaba seguro de lo que estaba pintando.
+Manner-Means_NS: utilizando un pincel de color rojo
+Evaluation_NS:  y los colores se mezclaron en el alma de los espectadores.
+Condition_NS:  y los colores se mezclaron en el alma de los espectadores.
+Joint_NN: y utilizó un estilo de pintura realista, con un toque de fantasía,
+=====
+-----
+Prompt: Pronto viajaré a lugares desconocidos, 
+No specified relation:  y me gustaría que me acompañaras en este viaje.
+Elaboration_NS: donde nadie conoce
+Contrast_NN: o a mundos diferentes,
+Cause_NS:  porque he de hacerlo.
+Manner-Means_NS: buscando con todas mis fuerzas
+Evaluation_NS: ¡la aventura ya comenzó!)
+Condition_NS:  si es que puedo encontrar un lugar tranquilo para vivir.
+Joint_NN: y espero que me perdone
+=====
+-----
+Prompt: La abuela tejió una manta con cariño, 
+No specified relation: y la puso en la cama de su nieto,
+Elaboration_NS: que puso en el suelo,
+Contrast_NN: pero yo ya no soy tan joven
+Cause_NS:  por eso su rostro se iluminó de alegría.
+Manner-Means_NS: sin darse cuenta de que se había olvidado de un detalle
+Evaluation_NS: y la puso en la cama de su nieto,
+Condition_NS: se calzó un abrigo de piel de oveja,
+Joint_NN: y le puso un nombre:
+=====
+-----
+Prompt: La computadora procesa datos rápidamente, 
+No specified relation:  y la memoria interna es de 64 MB.
+Elaboration_NS: que incluyen la información de la tarjeta de crédito, la información de la cuenta bancaria, y la información de la cuenta de PayPal,
+Contrast_NN: no la memoria:
+Cause_NS:  porque está conectada a Internet. 
+Manner-Means_NS: sin hacer mucho ruido
+Evaluation_NS: y eso es bueno,
+Condition_NS: si se mantiene el sistema operativo en un estado estable
+Joint_NN:  y puede hacer cosas que la mente humana no puede hacer.
+=====
+-----
+Prompt: En el zoológico, los leones rugen poderosos, 
+No specified relation: y los tigres se retuercen en el suelo,
+Elaboration_NS: que representan la energía de la naturaleza,
+Contrast_NN: pero el oso panda gigante es un animal silencioso
+Cause_NS: porque están muy excitados,
+Manner-Means_NS: los tigres se retuercen en el suelo,
+Evaluation_NS: ¡como perros ladradores nocturnos!
+Condition_NS: y los tigres se retuercen en el suelo,
+Joint_NN: y los tigres se retuercen en el suelo,
+=====
+-----
+Prompt: El reloj marca el tiempo implacablemente, 
+No specified relation:  y el tiempo es implacable para todos nosotros.
+Elaboration_NS: que va de la noche a la mañana,
+Contrast_NN: pero no siento el tiempo en mi cuerpo
+Cause_NS:  porque el reloj no se detiene.
+Manner-Means_NS: sin parar, sin detenerse, sin un segundo de respiro,
+Evaluation_NS:  y el tiempo es implacable para todos nosotros.
+Condition_NS:  y el tiempo es implacable para todos nosotros.
+Joint_NN: y sin descanso,
+=====
+-----
+Prompt: El músico toca su instrumento con pasión, 
+No specified relation: y su música es un canto a la vida
+Elaboration_NS:  que es su vida.
+Contrast_NN: pero está cansado de que su familia no le apoye
+Cause_NS: porque quiere,
+Manner-Means_NS: tratando de reflejar en él las emociones
+Evaluation_NS: ¡qué bien suena!",
+Condition_NS: se le puede ver
+Joint_NN: y canta con alegría,
+=====
+-----
+Prompt: Hoy plantaré flores en el jardín, 
+No specified relation: y las colgaré en las ramas de los árboles,
+Elaboration_NS: donde las abejas y los pájaros cantarán,
+Contrast_NN: o en el mar, o en el cielo
+Cause_NS:  porque he estado ausente.
+Manner-Means_NS:  tal como hice con el hombre de la colina de la mañana.
+Evaluation_NS: ¡oh! ¡¡Jin!!
+Condition_NS: si tú me das la mano
+Joint_NN: y cantaré canciones en el jardín,
+=====
+-----
+Prompt: Los científicos exploran el espacio sideral, 
+No specified relation: y los extraterrestres están a punto de llegar a la Tierra
+Elaboration_NS: donde hay una gran cantidad de planetas y estrellas,
+Contrast_NN:  pero parece que en un nuevo informe publicado hoy en Nature se revela que hay un nuevo tipo de estrella que se encuentra a miles de millones de años luz
+Cause_NS:  porque el tiempo es finito.
+Manner-Means_NS:  con una nave llamada Voyager 1 y un telescopio llamado Hubble, que se encuentra en órbita alrededor de la Tierra.
+Evaluation_NS: y los extraterrestres están a punto de llegar a la Tierra
+Condition_NS: y los extraterrestres están a punto de llegar a la Tierra
+Joint_NN:  y los extraterrestres se acercan a la Tierra para colonizarla.
+=====
+-----
+Prompt: El mar acaricia suavemente la playa dorada, 
+No specified relation: y el sol se cuela por las ventanas de la casa,
+Elaboration_NS: donde viven los peces de colores,
+Contrast_NN: pero debajo
+Cause_NS: porque estoy cerca de ti;
+Manner-Means_NS: dando como
+Evaluation_NS: y el sol se cuela por las ventanas de la casa,
+Condition_NS: se le ve rodeada
+Joint_NN:  y la brisa acaricia mi rostro.
+=====
+-----
+Prompt: La bailarina danza con elegancia y gracia, 
+No specified relation:  y con una gracia que no se ve en ninguna otra parte del mundo.
+Elaboration_NS: que se mueve con gracia y elegancia,
+Contrast_NN: pero es más que una actriz teatral
+Cause_NS: porque le apasiona,
+Manner-Means_NS: como una niña de nueve años en su primer ballet de su vida,
+Evaluation_NS: ¡cómo! es lo que tiene ser mujer, ¡caramba!
+Condition_NS:  se lo desea en su corazón  de hombre de negocios  y amante  del arte  y de los toros  en un baile  en un baile
+Joint_NN: y se mueve con gracia y elegancia,
+=====
+-----
+Prompt: El arquitecto diseñó un edificio futurista, 
+No specified relation:  que se asemeja a un edificio de apartamentos, con una fachada de vidrio y una estructura de acero, que se asemeja a un edificio
+Elaboration_NS: que se encuentra en el centro de la ciudad,
+Contrast_NN: pero no supo cómo se construiría
+Cause_NS: que resultó en un éxito comercial rápido y masivo en todo el mundo entero
+Manner-Means_NS: utilizando materiales de alta tecnología y una arquitectura futurista,
+Evaluation_NS: único y único,
+Condition_NS: que se podía ver desde el cielo,
+Joint_NN:  un edificio para el desarrollo de la energía solar en el centro de la ciudad, en el desierto de Mojave, en el desierto de Moj
+=====
+-----
+Prompt: La niña escribió una carta al hada, 
+No specified relation: y le pidió que le ayudara a encontrar a su padre,
+Elaboration_NS: que la transformaría en su favorita:
+Contrast_NN: pero no dijo nada especial:
+Cause_NS:  porque le había mentido a su padre.
+Manner-Means_NS: diciendo:
+Evaluation_NS: y le pidió que le ayudara a encontrar a su padre,
+Condition_NS: y le pidió que le ayudara a encontrar a su padre,
+Joint_NN:  y una carta al otro hada, para que la leyera el niño.
+=====
+-----
+Prompt: El barco navega hacia aguas desconocidas, 
+No specified relation: y no hay nada que pueda hacer
+Elaboration_NS: dónde nadie ha estado antes,
+Contrast_NN:  pero no sabes que estás a punto de descubrirlo".
+Cause_NS: dejando a muchos pasajeros en tierra,
+Manner-Means_NS:  sin ni siquiera un bote salvavidas o un radio de comunicación con tierra, ni un radio de comunicación con el resto de la flota de la base
+Evaluation_NS: y no hay nada que temer,
+Condition_NS: si se le ocurre que se puede hacer un descubrimiento en un lugar
+Joint_NN:  aguas salvajes, aguas desconocidas, aguas salvajes.
+=====
+-----
+Prompt: En la granja, los animales pastan tranquilamente, 
+No specified relation:  y los niños juegan en el jardín.
+Elaboration_NS: donde comen cere
+Contrast_NN: pero esta mañana se ha producido un extraño fenómeno que ha causado la muerte de un cerdo
+Cause_NS:  porque saben que no hay nada de malo en ellos.
+Manner-Means_NS: sin darse cuenta de la presencia
+Evaluation_NS: y eso me gusta,
+Condition_NS: se les proporcion
+Joint_NN: y la familia se reúne alrededor de la mesa
+=====
+-----
+Prompt: El jinete galopó velozmente por el campo, 
+No specified relation: y el caballo se detuvo en el borde de la colina,
+Elaboration_NS: donde había ganado su fama,
+Contrast_NN:  pero no sabía que detrás de él se escondía el lobo feroz.
+Cause_NS: porque su jinete se cansó,
+Manner-Means_NS: caminando hacia adelante
+Evaluation_NS: y el caballo se detuvo en el borde de la colina,
+Condition_NS: y el caballo se detuvo en el borde de la colina,
+Joint_NN:  y el caballo se le echó encima.
+=====
+-----
+Prompt: El comerciante vende productos en el mercado, 
+No specified relation:  y el comprador compra productos en el mercado.
+Elaboration_NS: que es un mercado de productos de consumo,
+Contrast_NN: pero tiene que pagar impuestos
+Cause_NS: porque le dan una parte de sus ganancias
+Manner-Means_NS:  mediante la venta de productos en el mercado, mediante la venta de productos en el mercado.
+Evaluation_NS:  y el comprador compra productos en el mercado.
+Condition_NS: si usted quiere que su producto sea el más vendido en el mercado
+Joint_NN:  y tiene un gran número de clientes.
+=====
+-----
+Prompt: Los bomberos apagaron el incendio rápidamente, 
+No specified relation: pero el fuego se extendió rápidamente a la casa vecina,
+Elaboration_NS: que fue sofocado alrededor de las 2:30
+Contrast_NN: pero debido a que era
+Cause_NS:  por lo que el fuego se extinguió en pocas horas.
+Manner-Means_NS: sin necesidad de utilizar agua,
+Evaluation_NS: pero el fuego se extendió rápidamente a la casa vecina,
+Condition_NS: pero el fuego se extendió rápidamente a la casa vecina,
+Joint_NN: e incluso antes de que el fuego alcanzara los árboles
+=====
+-----
+Prompt: El actor interpreta su papel con talento, 
+No specified relation: pero no es un buen actor,
+Elaboration_NS:  entre el que destaca su actuación en la película de terror de culto de los años 80, 'Dracula', y su papel en 'Dead
+Contrast_NN:  pero carece de carisma y personalidad.
+Cause_NS: gracias a las actuaciones de los actores
+Manner-Means_NS:  dando una interpretación de la persona que se encuentra en el personaje de la película, con una interpretación de la vida de la persona que se encuentra en el
+Evaluation_NS:  y la verdad es que es genial.
+Condition_NS: si se le compara con el papel que le dio el Oscar al actor Clint Eastwood
+Joint_NN:  y logra transmitir la esencia de la película con gran naturalidad.
+=====
+-----
+Prompt: En el bosque, los árboles susurran secretos, 
+No specified relation: y los pájaros cantan en el aire,
+Elaboration_NS: donde habita la savia
+Contrast_NN: mientras otros sólo se callan
+Cause_NS: porque han estado allí toda la vida;
+Manner-Means_NS:  sin voces ni palabras, en silencio, en silencio, en silencio,  en silencio, en silencio, en silencio, en silencio, en silencio,  en
+Evaluation_NS:  ¡Pescadores!</s>﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+Condition_NS: y los pájaros cantan en el aire,
+Joint_NN:  y la brisa acaricia sus hojas.
+=====
+-----
+Prompt: Los voluntarios ayudan a la comunidad con entusiasmo, 
+No specified relation: y con la ayuda de la comunidad, los voluntarios pueden ayudar a la comunidad con entusiasmo,
+Elaboration_NS:  que es la base de la organización.
+Contrast_NN: pero necesitan ser atendidos por profesionales
+Cause_NS: así que la gente se siente bien
+Manner-Means_NS: ofreciendo sus habilidades y conocimientos
+Evaluation_NS: y con la ayuda de la comunidad, los voluntarios pueden ayudar a la comunidad con entusiasmo,
+Condition_NS: se lavan las manos con frecuencia
+Joint_NN:  y son un ejemplo para los niños y los jóvenes de la importancia de la solidaridad y la cooperación.
+=====
+-----
+Prompt: La guitarra emite acordes melodiosos, 
+No specified relation: y la
+Elaboration_NS: donde destaca la vibración
+Contrast_NN: pero es difícil entender
+Cause_NS: porque está llena de energía,
+Manner-Means_NS:  dando así el toque de melancolía que el cuarteto le ha dado a la canción.
+Evaluation_NS: que se parecen a la propia melodía de la música
+Condition_NS: se oyen bastante bien al principio de cada acorde,
+Joint_NN:  y una voz femenina suave y dulce, que es el resultado de un trabajo de muchos años de estudio y práctica.
+=====
+-----
+Prompt: En el concierto, la multitud aplaude emocionada, 
+No specified relation:  y el público se vuelve loco con la música de la banda.
+Elaboration_NS: quien es conducido a través de la sala,
+Contrast_NN: pero mientras
+Cause_NS: porque todos,
+Manner-Means_NS: cantando
+Evaluation_NS:  y el público se vuelve más y más entusiasta.
+Condition_NS:  y el público se vuelve loco con la música de la banda.
+Joint_NN: y canta canciones de su ídolo,
+=====
+-----
+Prompt: Los turistas exploran las ruinas antiguas, 
+No specified relation:  y los arqueólogos descubren tesoros ocultos en las ruinas antiguas.
+Elaboration_NS: donde ahora se encuentra el Museo de la Ciudad de México,
+Contrast_NN: pero parece que en un momento dado se perdieron
+Cause_NS: porque nadie,
+Manner-Means_NS: con un pequeño barco en el agua,
+Evaluation_NS:  y los arqueólogos descubren tesoros ocultos en las ruinas antiguas.
+Condition_NS: se las imaginan futuristas
+Joint_NN: y descubren la historia de la ciudad,
+=====
+-----
+Prompt: La cocinera prepara deliciosos postres, 
+No specified relation:  como el pastel de chocolate, el pastel de manzana y el pastel de zanahoria.
+Elaboration_NS:  que incluyen galletas, pasteles, pasteles de frutas, pasteles de chocolate, pasteles de frutas, pasteles de chocolate, pasteles
+Contrast_NN: pero no sabe cómo hacerlo
+Cause_NS:  por lo que el número de visitantes se incrementa.
+Manner-Means_NS:  utilizando ingredientes de la más alta calidad y con un toque de creatividad.
+Evaluation_NS: ¡como es la tarta de la muerte!
+Condition_NS: se especializa en pastelería y repostería,
+Joint_NN:  y tiene una gran habilidad para la cocina de mariscos.
+=====
+-----
+Prompt: El agricultor cultiva la tierra con dedicación, 
+No specified relation: y la cosecha es para él
+Elaboration_NS:  donde el hombre es un simple ayudante.
+Contrast_NN: pero no tiene tiempo
+Cause_NS:  así que la tierra se cultiva con dedicación.
+Manner-Means_NS: sin prisas, sin prisas, sin pensar en el dinero,
+Evaluation_NS:  como es el trabajo que siempre debe estar presente en la vida de un hombre de bien, al servicio de la comunidad, la nación, la humanidad,
+Condition_NS: se la planta,
+Joint_NN:  y se esfuerza por producir alimentos para su familia y para el mundo entero.
+=====
+-----
+Prompt: Los atletas compiten en una carrera emocionante, 
+No specified relation:  y los espectadores disfrutan de la emoción de la competencia.
+Elaboration_NS:  donde la velocidad, la fuerza y la resistencia son cruciales.
+Contrast_NN: pero deben tener cuidado con las personas que están a su alrededor y con sus propias acciones:
+Cause_NS: dejando a un lado el mundo
+Manner-Means_NS: pasando obstáculos
+Evaluation_NS: carreras de estilo mundial
+Condition_NS:  se les permite correr en un circuito de arena de arena de playa de arena de playa de arena de playa de arena de playa de arena de playa de
+Joint_NN:  y tienen un gran desafío por delante.
+=====
+-----
+Prompt: La fotógrafa captura momentos inolvidables, 
+No specified relation:  y los convierte en recuerdos que perduran en el tiempo.
+Elaboration_NS:  donde los niños son los protagonistas.
+Contrast_NN:  pero tiene miedo a que se pierda algo importante en el camino.
+Cause_NS:  gracias a las inmensas habilidades que tienen algunas personas.
+Manner-Means_NS: creando en cada imagen, imágenes en blanco y negro, con colores vivos y contrastes,
+Evaluation_NS:  ya sea en la playa, en la montaña o en la ciudad, y los convierte en recuerdos únicos y maravillosos.
+Condition_NS: se ha mudado a la ciudad de Nueva
+Joint_NN:  y transmite emociones a través de sus imágenes.
+=====
+-----
+Prompt: En el desierto, las dunas se mueven lentamente, 
+No specified relation: y los animales se mueven lentamente,
+Elaboration_NS: que son las dunas de la erosión,
+Contrast_NN:  pero las montañas se mueven muy rápido.
+Cause_NS: debido a la fuerza de la gravedad,
+Manner-Means_NS:  como si el viento las arrastrara hacia el mar.
+Evaluation_NS: y los animales se mueven lentamente,
+Condition_NS: y los animales se mueven lentamente,
+Joint_NN: y no tienen forma,
+=====
+-----
+Prompt: El libro narra una emocionante aventura, 
+No specified relation:  en la que un grupo de niños y niñas, de entre 5 y 12 años, se embarcan en un viaje a través de la selva, en
+Elaboration_NS: que comienza cuando un niño de diez años, llamado Peter Pan, se pierde en el mar
+Contrast_NN: pero también está lleno de un fuerte mensaje:
+Cause_NS:  en la que un grupo de niños y niñas, de entre 5 y 12 años, se embarcan en un viaje a través de la selva, en
+Manner-Means_NS:  con capítulos cortos y diálogos rápidos, en los que se narra la vida de un niño de diez años, que vive en un mundo de fantasía,
+Evaluation_NS:  llena de emoción, emoción, emoción, aventura, fantasía y magia  de la mano de los más increíbles superhéroes de la literatura infantil
+Condition_NS:  en la que un grupo de niños y niñas, de entre 5 y 12 años, se embarcan en un viaje a través de la selva, en
+Joint_NN:  y muestra la vida de los niños que viven en el mundo de los sueños.
+=====
+-----
+Prompt: Los niños descubren tesoros en el bosque, 
+No specified relation: y los adultos los guardan
+Elaboration_NS: donde viven los animales salvajes
+Contrast_NN: o mientras andan por la ciudad
+Cause_NS: porque están en el lugar correcto,
+Manner-Means_NS: buscando con ojos de niño
+Evaluation_NS: ¡muy a menudo gracias a tí, mamá!
+Condition_NS:  si se les da la oportunidad de hacerlo.
+Joint_NN:  y en el bosque hay tesoros para los adultos también.
+=====
+-----
+Prompt: La actriz actúa con expresiones conmovedoras, 
+No specified relation: y su voz es tan dulce como la de una niña,
+Elaboration_NS: que transmiten serenidad,
+Contrast_NN: pero es incapaz de hablar,
+Cause_NS: porque su rostro,
+Manner-Means_NS: mostrando su dolor
+Evaluation_NS:  junto a su esposo, el actor y director de cine, John Travolta, y su hija, Olivia, de 13 años, en la película de
+Condition_NS: se le puede ver llorar con pasión con ella me voy a casar con tu amor
+Joint_NN: y tiene un gran sentido del humor,
+=====
+-----
+Prompt: La lluvia crea un ambiente acogedor en casa, 
+No specified relation:  y la luz de la luna llena es un elemento decorativo muy especial.
+Elaboration_NS: donde uno puede relajarse
+Contrast_NN: pero no tiene por qué ser un ambiente pesado y pesado
+Cause_NS: gracias a que los cristales
+Manner-Means_NS: creando espacios
+Evaluation_NS: como un refugio de la tormenta y la nieve,
+Condition_NS: se ha de ser capaz de apreciarla,
+Joint_NN: y en el jardín, en el patio o en el balcón,
+=====
+-----
+Prompt: El joyero crea delicadas piezas de joyería, 
+No specified relation:  que son únicas y exclusivas, y que se pueden personalizar con el nombre de la persona que las recibe.
+Elaboration_NS:  que son un regalo de boda, un regalo de cumpleaños, un regalo de Navidad, un regalo de aniversario, un regalo de graduación, etc.
+Contrast_NN:  o más bien joyas de diseño  inspiradas en diferentes momentos de la historia  y diseñadas para expresar sentimientos  de felicidad y de dolor  y
+Cause_NS:  la mayor parte de las cuales son de plata de ley 925.
+Manner-Means_NS:  utilizando materiales como el oro, la plata, el platino, el cobre, el bronce, el latón, el acero inoxidable, el
+Evaluation_NS: tan maravillosas
+Condition_NS: se le considera un experto
+Joint_NN:  y también diseña joyas de plata y joyas de oro.
+=====
+-----
+Prompt: En el colegio, los estudiantes aprenden con entusiasmo, 
+No specified relation: y los profesores se esfuerzan por enseñarles a todos los estudiantes lo que saben
+Elaboration_NS: donde siempre han aprendido con entusiasmo,
+Contrast_NN: pero es en casa donde aprenden más
+Cause_NS: porque saben que pueden contar con
+Manner-Means_NS: trabajando con sus compañeros y con los profesores de la escuela
+Evaluation_NS: ¡aprendizaje significativo!
+Condition_NS:  si se los motiva adecuadamente.
+Joint_NN:  y con una actitud positiva, a través de la práctica y la experimentación.
+=====
+-----
+Prompt: Los artistas callejeros entretienen a la audiencia, 
+No specified relation: y los visitantes pueden disfrutar de la música
+Elaboration_NS: que es la que paga por su entrada,
+Contrast_NN:  pero el público es quien paga el show.
+Cause_NS:  gracias a sus habilidades artísticas, mientras que los políticos, a menudo, son los que se benefician de ello.
+Manner-Means_NS:  ofreciendo una visión de la vida cotidiana de la ciudad de Nueva York, con sus luces y sombras, sus colores y sus sonidos, y con la particular
+Evaluation_NS: y los visitantes pueden disfrutar de la música
+Condition_NS: se les permite la oportunidad de expresarse libremente
+Joint_NN:  y a los turistas que se acercan a la ciudad.
+=====
+-----
+Prompt: El médico cuida la salud de sus pacientes, 
+No specified relation:  pero también de la sociedad en la que viven.
+Elaboration_NS:  que son sus pacientes.
+Contrast_NN: pero no puede hacer nada
+Cause_NS: porque le hace bien,
+Manner-Means_NS:  mediante la prevención, el diagnóstico y el tratamiento de las enfermedades, así como la promoción de la salud y la prevención de las enfermedades.
+Evaluation_NS:  y el médico también cuida la salud de su familia.
+Condition_NS: se lo debe,
+Joint_NN:  y la medicina también cuida la salud de sus pacientes.
+=====
+-----
+Prompt: En el circo, los payasos hacen reír a la gente, 
+No specified relation:  pero también a los animales.
+Elaboration_NS: que espera en el circo,
+Contrast_NN: pero al otro lado de la escena hay personas que sufren por la violencia
+Cause_NS: porque no entienden,
+Manner-Means_NS: sin darse cuenta de que hacen reír a los demás
+Evaluation_NS:  pero también a los animales.
+Condition_NS:  pero también a los animales.
+Joint_NN:  y a los niños les encanta jugar con ellos.
+=====
+-----
+Prompt: Los astronautas flotan en el espacio, 
+No specified relation:  y los humanos se quedan en la Tierra, en la Tierra de los humanos, en la Tierra de los humanos, en la Tierra de los humanos,
+Elaboration_NS: donde viven en paz,
+Contrast_NN: o viceversa
+Cause_NS:  porque se han ido a la luna, a la luna, a la luna.
+Manner-Means_NS: caminando sobre una superficie de agua que se mueve con el viento,
+Evaluation_NS:  y los humanos se quedan en la Tierra, en la Tierra de los humanos, en la Tierra de los humanos, en la Tierra de los humanos,
+Condition_NS: si se les permite hacerlo en un traje espacial de alta tecnología
+Joint_NN: y yo estoy en la tierra,
+=====
+-----
+Prompt: La maestra inspira a sus alumnos a soñar en grande, 
+No specified relation:  y a ser creativos y a ser libres.
+Elaboration_NS:  que es el sueño de cada niño y niña.
+Contrast_NN: pero no cree que
+Cause_NS:  porque sabe que no tienen nada que temer;  que no tienen nada que temer;  que no tienen nada que temer;  que no tienen nada
+Manner-Means_NS: creando en ellos una imagen de un mundo
+Evaluation_NS:  y a ser creativos y a ser libres.
+Condition_NS: se los guía por un sendero de conocimiento
+Joint_NN:  y a hacer realidad sus sueños.
+=====
+-----
+Prompt: Los científicos investigan nuevas curas médicas, 
+No specified relation:  y la medicina tradicional china está en el centro de la investigación.
+Elaboration_NS:  que podrían ayudar a los pacientes con cáncer a vivir más tiempo y mejorar su calidad de vida.
+Contrast_NN: pero el médico de cabecera es un hombre de negocios que no quiere saber nada de la medicina moderna,
+Cause_NS: porque muchas personas no pueden recibir el tratamiento que necesitan
+Manner-Means_NS:  con un método que utiliza células madre para regenerar órganos y tejidos, que podrían ser una alternativa para los pacientes con enfermedades como el cáncer y la
+Evaluation_NS:  y la medicina tradicional china está en el punto de mira de los científicos occidentales.
+Condition_NS: si se descubre una cura para la enfermedad de Huntington que causa la enfermedad de Lou Gehrig,
+Joint_NN: y nuevas formas de prevenir enfermedades,
+=====
+-----
+Prompt: En la playa, los surfistas cabalgan las olas, 
+No specified relation: y los niños juegan en la arena
+Elaboration_NS: donde descans
+Contrast_NN: o simplemente las contemplan en silencio en medio del sol de la tarde y la brisa del mar cálido
+Cause_NS: porque de algún modo han heredado la ola de Dios;
+Manner-Means_NS: sin darse cuenta de la mano de los fuertes vientos
+Evaluation_NS: ¡como peces!"
+Condition_NS: se las ingenian
+Joint_NN: y las chicas se divierten en la arena,
+=====
+-----
