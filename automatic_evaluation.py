@@ -1,13 +1,15 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import dmrst
 
-device = "cuda:0"
+# Change this model computation device
+# Can be "cpu", "cuda:0", etc.
+device = "cpu"
 
 def main():
     
     print("Loading Models, both DMRST and BLOOM 1.7B.",
       "\"Some weights...\" error expected when loading DMRST...")
-    parser = dmrst.DMRST()
+    parser = dmrst.DMRST(device)
 
     # model = AutoModelForCausalLM.from_pretrained("gpt2",
     #                             cache_dir = "./model-cache/").to(device)
