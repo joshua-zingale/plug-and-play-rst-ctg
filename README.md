@@ -19,5 +19,11 @@ Since the present work depends upon their work, please cite Liu et al. also when
 - *parser_generation.py* a class that implements the main algorithm discussed in the paper
 - *requirements.txt* the Python package requirements
 - *DMRST_Parser_main* the folder containing a modified version of the Liu et al. DMRST code
-  
+- *human-eval* the folder containing the human evaluation scores for each of the three evaluators
+
+The bolded files are those Python scripts that can be run to reproduce the generations, the automatic evaluation of the generations, and the analysis of the human-evaluation scores used in the paper.
+
+
+## Setup
+After cloning this repository to a computer, you must install the required libraries.
 More documentation to come (written February 3rd, 2024).
