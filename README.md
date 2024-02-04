@@ -9,8 +9,15 @@ Since the present work depends upon their work, please cite Liu et al. also when
 
 ## Manifest
 - **automatic_evaluation.py** script to run the automatic evaluation results
-- **complete_sentences.py** script to generate the sentence completions from the paper
+- **complete_sentences.py** script to generate the sentence completions evaluated the paper
 - *dmrst.py* a class written to interface with the Liu et al. DMRST code
 - *generaciones* the spanish language prompts and generations evaluated in the paper's appendix
+- *generations-from-human-prompts* the English language prompts and generations evaulated in the paper
+- *gpt-spanish-prompts* the Spanish language prompts used in the paper
+- *human-english-prompts* the English language prompts used in the paper
+- **human_evaluation.py** script to process the human evaluation scores and to generate the paper's table values
+- *parser_generation.py* a class that implements the main algorithm discussed in the paper
+- *requirements.txt* the Python package requirements
+- *DMRST_Parser_main* the folder containing a modified version of the Liu et al. DMRST code
   
-More documentation to come (written January 30th, 2024).
+More documentation to come (written February 3rd, 2024).
