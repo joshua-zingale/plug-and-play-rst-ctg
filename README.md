@@ -26,4 +26,35 @@ The bolded files are those Python scripts that can be run to reproduce the gener
 
 ## Setup
 After cloning this repository to a computer, you must install the required libraries.
-More documentation to come (written February 3rd, 2024).
+This can be done with
+
+```bash
+pip install -r requirements.txt
+```
+
+Now, the model weights for DMRST need to be downloaded from a link in its [repository](https://github.com/seq-to-mind/DMRST_Parser), which can be found in **depth_mode/Savings/README.md**. After downlowding **multi_all_checkpoint.torchsave**, place it inside the cloned repository with the same name at **DMRST_Parser_main/depth_mode/Savings/multi_all_checkpoint.torchsave**.
+
+The first time BLOOM, the language model, is called, it will be downloaded and cached into this repository's file structure.
+This happens automatically when you run one of the scripts.
+
+### GPU
+By default, we have configured everything to run via CPU, which will be very slow for anything involving the two models.
+Each of the script files, described below, can be configurd to run the language model and DMRST on GPU by changing the variables' values at the top of the script.
+
+## Generation Completions from Paper
+Running **complete_sentences.py** will read all of the prompts, first English then Spanish, used in the paper and generate the completions for them.
+We used greedy generations so you should get the same results as were used for the paper's statistics, i.e. they should match **generations-from-human-prompts** and **generaciones** (the Spanish generations). The prompts used by this script are read from **human-english-prompts** and **gpt-spanish-prompts**.
+
+At the top of the script, DEVICE_1 can be set to a different value to enable a GPU for the language model and DEVICE_2 can be set to enable A GPU for DMRST.
+
+The generations will be printed to the standard output.
+
+## Automatic Evaluation
+Running **automatic_evaluation.py** will read the generations used in the paper, found in **generations-from-human-prompts** and **generaciones**, and then use DMRST to evaluate the relationship between each prompt-generation pair and use BLOOM 1.7B to calculate the perplexity for the generations. This will take a long time, perhaps more than a day, if a GPU is not used.
+The results will be printed to the standard output as a dictionary.
+
+To configure this script to use a GPU, change the variable at the top of the script, *device*, to something like "cuda:0".
+
+
+## Human Evaluation
+Running **human_evaluation.py** will read in all of the scores by the human annotators, which are found in **human_eval/**, and then return the averages used in the paper.
