@@ -1,5 +1,7 @@
+import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import dmrst
+import re
 
 # Change this model computation device
 # Can be "cpu", "cuda:0", etc.
@@ -26,10 +28,9 @@ def main():
     with open("generations-from-human-prompts", "r") as f:
         sentences_eh = f.read()
 
-    sentences_eh = sentences_eh.split("""=====
-    -----""")[:-1]
+    sentences_eh = sentences_eh.split("""=====\n-----""")[:-1]
     
-    bloom_evaluation = evaluate_generations(sentences_eh)
+    bloom_evaluation = evaluate_generations(sentences_eh, parser, model, tokenizer)
     
     print(bloom_evaluation)
     
@@ -63,7 +64,7 @@ def parse_relation(relation: str):
         rel = r_r
     return rel + "_"+n_l[0] + n_r[0]
 
-def evaluate_generations(generations):
+def evaluate_generations(generations, parser, model, tokenizer):
     
     pairs = []
     for generation in generations:
@@ -107,7 +108,7 @@ def evaluate_generations(generations):
 
             len_full = len(parser.bert_tokenizer(full_text, add_special_tokens = False).input_ids)
             
-            perplexity = get_perplexity(full_text, model, tokenizer, device = "cuda:1")
+            perplexity = get_perplexity(full_text, model, tokenizer, device = device)
             out_dict["relations"][relation]["average_perplexity"] += perplexity
 
             _, _, pred_relation, logits = parser.infer([prompt + completion],
