@@ -1,11 +1,30 @@
 # Language Model Sentence Completion with a Parser-Driven Rhetorical Control Method
 
-This repository contains an implementation of the 2024 EACL paper, "Language Model Sentence Completion with a Parser-Driven Rhetorical Control Method."
+This repository contains the implementation of our 2024 EACL paper, [Language Model Sentence Completion with a Parser-Driven Rhetorical Control Method](https://aclanthology.org/2024.eacl-short.18/) (Zingale and Kalita, 2024).
 The paper presents a controlled-text-generation algorithm that enforces adherence toward specific rhetorical relations during LLM sentence-completion.
 The code herein is the code used to get the results discussed in the paper.
 
 This repository is made possible by the publically available DMRST parser by Zhengyuan Liu et al. in [their repository](https://github.com/seq-to-mind/DMRST_Parser).
 Since the present work depends upon their work, please cite Liu et al. also when citing the present work. The relevent citations for Liu et al. may be found in their [GitHub repository](https://github.com/seq-to-mind/DMRST_Parser).
+
+If anything in this repository helps you with a publication, please cite our paper according to the following BibTeX:
+```
+@inproceedings{zingale-kalita-2024-language,
+    title = "Language Model Sentence Completion with a Parser-Driven Rhetorical Control Method",
+    author = "Zingale, Joshua  and
+      Kalita, Jugal",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.eacl-short.18",
+    pages = "193--203",
+    abstract = "Controlled text generation (CTG) seeks to guide large language model (LLM) output, that statistical language generation would conform to desired criteria. The current study presents a novel CTG algorithm that enforces adherence toward specific rhetorical relations in an LLM sentence-completion context by a parser-driven decoding scheme that requires no model fine-tuning. The method is validated both with automatic and human evaluation.",
+}
+```
 
 ## Manifest
 - **automatic_evaluation.py** script to run the automatic evaluation results
